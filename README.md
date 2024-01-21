@@ -3,7 +3,7 @@
 
 ## General Introduction and Implications of Scientific Theories / Relevant Publications
 
-### 1. [**There Are No Such Things As Theories** (Stephen French, 2020)](https://global.oup.com/academic/product/there-are-no-such-things-as-theories-9780198848158?prevNumResPerPage=20&prevSortField=8&resultsPerPage=20&sortField=8&start=20&lang=en&cc=pl#)
+### 1. [**There Are No Such Things As Theories** (Stephen French, 2020)**](https://global.oup.com/academic/product/there-are-no-such-things-as-theories-9780198848158?prevNumResPerPage=20&prevSortField=8&resultsPerPage=20&sortField=8&start=20&lang=en&cc=pl#)
 
 *The book considers the fundamental question: what is a scientific theory? The book presents a range of options - from theories as sets of propositions, to theories as families of models, abstract artifacts, or fictions - and highlights the various problems they all face.*
 
@@ -23,7 +23,7 @@ pic(?)
 
 pdf (?)
 
-### 5. [**Understanding Inconsistent Science (Peter Vickers**](https://global.oup.com/academic/product/understanding-inconsistent-science-9780199692026?cc=at&lang=en&)
+### 5. [**Understanding Inconsistent Science (Peter Vickers)**](https://global.oup.com/academic/product/understanding-inconsistent-science-9780199692026?cc=at&lang=en&)
 
 description
 
@@ -90,6 +90,40 @@ description (?)
 ### 24. [**Theoretical Neuroscience Rising (Abbott, 2008)**](https://www.sciencedirect.com/science/article/pii/S0896627308008921)
 
 ### 25. [**Theory Construction Methodology: A practical framework for theory formation in psychology (Borsboom et al., 2020)**](https://www.researchgate.net/publication/349409485_Theory_Construction_Methodology_A_Practical_Framework_for_Building_Theories_in_Psychology)
+
+
+### 26. [**Theory development requires an epistemological sea change (Rooij & Giosuè Baggio, 2020)**](https://osf.io/preprints/psyarxiv/rnw9q)
+
+### 27. [**Modeling Psychopathology: From Data Models to Formal Theories (Haslbeck, Ryan, Robinaugh, Waldorp & Borsboom, DATE)**](https://osf.io/preprints/psyarxiv/jgm7f)
+
+### 28. [**A Vast Graveyard of Undead Theories: Publication Bias and Psychological Science’s Aversion to the Null (Ferguson, C. J., & Heene, M. (2012).)**](https://journals.sagepub.com/doi/10.1177/1745691612459059)
+
+### 29. [**Under what conditions does theory obstruct research progress? (Greenwald et al., 1986):**](https://faculty.washington.edu/agg/pdf/Gwald_Pratk_Leip_Baumg_PsychRev_1986.OCR.pdf)
+
+### 30. [**Creative Hypothesis Generating in Psychology: Some Useful Heuristics (McGuire, 1997)**](https://www.annualreviews.org/doi/abs/10.1146/annurev.psych.48.1.1)
+
+### 31. [**Under what conditions can theoretical psychology survive and prosper? Integrating the rational and empirical epistemologies (1988)**](https://psycnet.apa.org/record/1989-10520-001)
+
+### 32. [**Psychological epistemology: A critical review of the empirical literature and the theoretical issues (Royce, J. R, et al.,1978)**](https://psycnet.apa.org/record/1979-22528-001)
+
+### 33. [**Facts, concepts, and theories: The shape of psychology's epistemic triangle (Machado, A., Lourenço, O., & Silva, F. J., 2000)**](https://psycnet.apa.org/record/2001-14653-001)
+
+### 34. [**If mathematical psychology did not exist we might need to invent it: A comment on theory building in psychology (Navarro)**](https://journals.sagepub.com/doi/10.1177/1745691620974769)
+
+### 35. [**Theory, the Final Frontier? A Corpus-Based Analysis of the Role of Theory in Psychological Articles (Beller & Bender, 2017)**](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.00951/full)
+
+### 36. [** There Is Nothing So Theoretical as a Good Method (Anthony G. Greenwald, 2012)**](https://journals.sagepub.com/doi/10.1177/1745691611434210)
+
+### 37. [**Theory construction in the psychopathology domain: A multiphase approach **]( )
+NO LINK
+
+### 37. [**Psychology: a giant with a feet of clay (Zagaria, Ando & Zennaro, 2020)**](https://link.springer.com/article/10.1007/s12124-020-09524-5)
+
+### 39. [**When Experiments Serve Little Purpose: Misguided Research in Mainstream Psychology (Wallach & Wallach, DATE)**](https://journals.sagepub.com/doi/10.1177/0959354398082005)
+
+### 40. [**Case Study in the Failure of Psychology as a Cumulative Science: The Spontaneous Recovery of Verbal Learning**](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315629049-20/case-study-failure-psychology-cumulative-science-spontaneous-recovery-verbal-learning)
+
+### 41. [** **]( )
 
 
 
