@@ -2,20 +2,37 @@
 # Cognitive Metascience
 
 ## Tools for Citation Analysis
-* [**Lens**](https://www.lens.org/) 
-* [**SN SciGraph**](https://communities.springernature.com/users/82895-sn-scigraph) 
+* [**Lens**](https://www.lens.org/)
+
+An aggregator for diverse open knowledge sets, including scholarly works and patents. Offers discovery and analytics tools, ‘The Lens MetaRecord’ integrates multiple identifiers and sources to provide comprehensive and normalized metadata while maintaining provenance. 
+* [**SN SciGraph**](https://communities.springernature.com/users/82895-sn-scigraph)
+
+SN SciGraph speeds up content discovery and broadens the scope of research by exposing previously unseen patterns and presenting new perspectives (by linking Springer Nature publications to other data types such as grants, conferences, and freely available taxonomies). Provides programmatic access to SN SciGraph data via an API.
 * [**Webometric Analyst**](http://lexiurl.wlv.ac.uk/)
-  - check out the link its a bit sketchy
+
+Free Windows-based program, designed for altmetrics, citation analysis, social web analysis, and webometrics, including link analysis. Data is downloaded through APIs or directly, and various text and citation processing options are provided. Altmetrics and citation analysis cover data sources like Mendeley, Altmetric.com, Google Books, and WorldCat. Social web analysis includes platforms such as YouTube, Twitter, Goodreads, and Flickr.
 * [**Microsoft Academic Graph**](https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/)
+  
+Knowledge graph with scientific publications, citation relationships and authors; supporting various applications. Updated bi-weekly, it offers an Azure Storage distribution service for research scenarios. Microsoft Academic Knowledge API, for lightweight usage, has a monthly quota and traffic throttles. 
 * [**Dimensions.AI**](https://www.dimensions.ai/)
+
+Database that integrates data and analytical tools in a single platform with over 106 million publications linked to grants, patents, clinical trials, datasets, policy papers, citations and article metrics.
 * [**CiteSpace**](https://sourceforge.net/projects/citespace/)
+
+Visual analytic tool designed for studying scholarly literature trends. The workflow involves analytic tasks and a variety of configurations, emphasizing the importance of understanding underlying concepts and principles. The tool is unique for linking publications with grants, patents, clinical trials, datasets, and policy papers, offering a holistic research landscape.
+
 * [**OpenAIRE**](https://graph.openaire.eu/)
+
+OpenAIRE providesn a large database of research data that is stored in a graph format (that represents relationships between research outputs, citations, funding, organizations and collaborations). Used for research evaluation in replacement of proprietary databases such as Web of Science or Scopus.
+
 * [**Scite.AI**](https://scite.ai/)
+
+Analyses the textual context of citations, distinguishing between supporting, mentioning, and contrasting citations. Processes full-text articles to create ‘Smart Citations’, which contain information about citation relationships, contextual details, and classification types. Also offers Custom Dashboards, a Zotero Plugin, and a Browser Extension. Sources papers from publishers, preprint servers, and other reputable sources, accessing full-text PDFs and XMLs for analysis.
  
 
 
 
-## General Introduction and Implications of Scientific Theories / Relevant Publications
+## Introduction to Scientific Theories
 
 * [**There Are No Such Things As Theories (Stephen French, 2020)**](https://global.oup.com/academic/product/there-are-no-such-things-as-theories-9780198848158?prevNumResPerPage=20&prevSortField=8&resultsPerPage=20&sortField=8&start=20&lang=en&cc=pl#)
 
@@ -134,8 +151,3 @@ NO LINK
 * [**When Experiments Serve Little Purpose: Misguided Research in Mainstream Psychology (Wallach & Wallach, DATE)**](https://journals.sagepub.com/doi/10.1177/0959354398082005)
 
 * [**Case Study in the Failure of Psychology as a Cumulative Science: The Spontaneous Recovery of Verbal Learning**](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315629049-20/case-study-failure-psychology-cumulative-science-spontaneous-recovery-verbal-learning)
-
-*  [** **]( )
-
-
-
