@@ -1,5 +1,6 @@
  
 # Cognitive Metascience
+**First draft of an *awesome list* of Cognitive Metasdcience lab's list of resources**
 
 ## Tools for NLP
 * [ Lingo4G ](https://carrotsearch.com/lingo4g/)
