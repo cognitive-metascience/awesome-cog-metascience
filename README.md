@@ -148,8 +148,8 @@ The article discusses the pivotal role of ontologies in cognitive science, servi
 * [ Systematizing the theoretical virtues ](https://philarchive.org/rec/KEASTT-2)
 
 The author explores twelve major virtues of good theories, categorizing them into four classes: evidential, coherential, aesthetic, and diachronic. These virtues include evidential accuracy, causal adequacy, explanatory depth, internal consistency, internal coherence, universal coherence, beauty, simplicity, unification, durability, fruitfulness, and applicability. The classification system follows a pattern of progressive disclosure and expansion within each class. The article aims to clarify the virtues and propose their coordinated and cumulative role in theory formation and evaluation across disciplines. The author argues for an informal and flexible logic of theory choice, emphasizing the multifaceted relationships among the virtues. This systematization provides resources for future prescriptive studies and potential collaboration among logicians, epistemologists, and practitioners across disciplines.
-![image](https://github.com/sofijakrivokapic/cognitivemetascience/assets/125128460/a5a6a9b7-124c-438c-8473-7b40224e0fbe)
 
+![image](https://github.com/sofijakrivokapic/cognitivemetascience/assets/125128460/a5a6a9b7-124c-438c-8473-7b40224e0fbe)
 
 * [ The Cognitive Structure of Scientific Theories (Giere) ](https://www.jstor.org/stable/188213)
 
