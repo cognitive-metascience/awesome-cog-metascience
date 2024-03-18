@@ -1,10 +1,18 @@
-# Cognitive Metascience
+![image](https://github.com/sofijakrivokapic/cognitivemetascience/assets/125128460/6944892e-be85-48b4-bb7a-a82d6dca01df)
+
+# An overview of useful resources for cognitive scientists
 **First draft of an *awesome list* of Cognitive Metascience lab's (University of Warsaw) list of resources.**
 
-<details>
-<summary>Tools for NLP</summary>
+Welcome to the GitHub page of our Cognitive Metascience Lab. Here, we aim to create a platform where we can share resources and knowledge with anyone interested in our field or related areas of study. Our mission is to contribute to the advancement of cognitive metascience and promote open access to valuable resources. Whether you're a researcher, student, or enthusiast, we invite you to check out our curated collection and contribute your own insights, tools, or findings. This platform is open to everyone, and we believe that collective knowledge-sharing can guide us forward in our pursuit of understanding the complexities of this scientific field. So feel free to browse, engage, and join us in exploration and discovery of sources that make out scientific work a bit easier.
+
+In the following sections you will find list of resources for NLP and citation analysis as well as a literature overview for scientific theories.
 
 ## Tools for NLP
+
+From robust language models like SciBERT to annotation platforms like Doccano, these resources offer a diverse array of tools designed for text analysis and understanding. Whether you're exploring sentiment analysis, entity recognition, or document summarization, these tools provide the necessary infrastructure for work into the field of natural language processing, making them useful for anyone interested in advancing their understanding of linguistics, machine learning, or cognitive science.
+
+<details>
+<summary>Check it out!</summary>
 
 * [ Lingo4G ](https://carrotsearch.com/lingo4g/)
 
@@ -30,10 +38,13 @@ Weaviate is an open source vector database that stores both objects and vectors,
 
 </details>
 
-<details>
-<summary>Tools for Citation Analysis</summary>
- 
 ## Tools for Citation Analysis
+
+The Citation Analysis tools featured here are essential for researchers seeking to navigate the scholarly landscape efficiently. From databases like Microsoft Academic Graph to visualization tools like CiteSpace, these resources empower users to uncover trends and gain insights into academic discourse through bibliometric analysis.
+
+<details>
+<summary>Check it out!</summary>
+ 
 * [ Lens ](https://www.lens.org/)
 
 An aggregator for diverse open knowledge sets, including scholarly works and patents. Offers discovery and analytics tools, ‘The Lens MetaRecord’ integrates multiple identifiers and sources to provide comprehensive and normalized metadata while maintaining provenance. 
@@ -63,8 +74,12 @@ Analyses the textual context of citations, distinguishing between supporting, me
 
 </details>
 
+## What makes a scientific theory good?
+
+In our Scientific Theories section, you'll find must-have resources for getting to grips with the essence of scientific exploration. You'll find classic reads to enlightening articles, and they all offer insights into theory building and disciplinary perspectives.
+
 <details>
-<summary>Introduction to Scientific Theories</summary>
+<summary>Check it out!</summary>
 
 * [ There Are No Such Things As Theories (Stephen French, 2020) ](https://global.oup.com/academic/product/there-are-no-such-things-as-theories-9780198848158?prevNumResPerPage=20&prevSortField=8&resultsPerPage=20&sortField=8&start=20&lang=en&cc=pl#)
 
