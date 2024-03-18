@@ -15,9 +15,6 @@ From robust language models like SciBERT to annotation platforms like Doccano, t
 <summary>Check it out!</summary>
 
 * [ Lingo4G ](https://carrotsearch.com/lingo4g/)
-
-some additional link found: http://sentistrength.wlv.ac.uk/PeerJudge.html
-
 * [Cortext Manager](https://www.cortext.net/projects/cortext-manager/)
 * [ Text Visualization Browser ](https://textvis.lnu.se/)
 * [ SAGE Texti ](https://ocean.sagepub.com/texti)
@@ -83,64 +80,93 @@ In our Scientific Theories section, you'll find must-have resources for getting 
 
 * [ There Are No Such Things As Theories (Stephen French, 2020) ](https://global.oup.com/academic/product/there-are-no-such-things-as-theories-9780198848158?prevNumResPerPage=20&prevSortField=8&resultsPerPage=20&sortField=8&start=20&lang=en&cc=pl#)
 
-*The book considers the fundamental question: what is a scientific theory? The book presents a range of options - from theories as sets of propositions, to theories as families of models, abstract artifacts, or fictions - and highlights the various problems they all face.*
+The book considers the fundamental question: what is a scientific theory? The book presents a range of options - from theories as sets of propositions, to theories as families of models, abstract artifacts, or fictions - and highlights the various problems they all face.
 
 * [ A decade of theory as reflected in Psychological Science (2009–2019) ](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247986)
 
-description (?)
+The study analyzes articles from Psychological Science (2009–2019) to assess the role of theory in psychology. Despite mentioning 359 theories, most are only referenced once, with 53.66% of manuscripts including the term "theory." Only 15.33% explicitly test predictions from theories, indicating potential gaps in cumulative theory building. The findings challenge the assumption that psychological science aligns with a hypothetico-deductive model, prompting questions about the field's reliance on theory. The study underscores the need for a clearer understanding of the role theory plays in shaping psychological research.
+
+![image](https://github.com/sofijakrivokapic/cognitivemetascience/assets/125128460/477bb6d1-2a0c-46fc-9491-464eead46794)
 
 * [ How Computational Modeling Can Force Theory Building in Psychological Science (Guest & Martin, 2020) ](https://journals.sagepub.com/doi/10.1177/1745691620970585)
 
-pic(?)
+The article advocates for the underappreciated value of computational modeling in psychology, asserting its potential to guide transparent theorizing. Computational modeling is seen as essential for conceptual analysis and formalizing intuitions, facilitating the development of open and transparent theories. The authors warn that a reluctance to embrace computational modeling may lead to replicability issues and hinder coherent theory building in psychology. The article introduces scientific inference as a sequential process and highlights the role of computational modeling in enhancing it beyond traditional practices like preregistration. Additionally, it provides practical insights on formalizing and implementing computational models, emphasizing their accessibility and benefits for all researchers.
 
 * [ Formalizing verbal theories: A tutorial by dialogue (Rooij & Baggio) ](https://journals.sagepub.com/doi/10.1177/1745691620970585)
 
+The article argues for the crucial role of computational modeling in advancing psychological science, emphasizing its potential to shape "open theory" through conceptual analysis. Computational modeling is portrayed as essential for constraining the inference process, aiding in the creation of explanatory and predictive theories. The article predicts potential replicability crises and challenges in theory building if psychology continues to overlook computational modeling. Lack of formal modeling is identified as a barrier to transparent theorizing in psychology. Additionally, the article provides practical insights on formalizing, specifying, and implementing a computational model, stressing its accessibility and benefits for all researchers.
+
+
 * [ Understanding Inconsistent Science (Peter Vickers) ](https://global.oup.com/academic/product/understanding-inconsistent-science-9780199692026?cc=at&lang=en&)
 
-description
+Addressing recent philosophical claims, Peter Vickers examines eight alleged 'inconsistent theories' in the history of science to challenge the oversimplified view that successful theories can tolerate internal inconsistencies. Vickers argues that labeling theories as 'inconsistent science' may depend on reconstructions that deviate from the actual history of science. Genuine inconsistency, when present, demands a context-specific understanding and response. The author cautions against overly general claims about science, highlighting the diverse nature of entities labeled as 'theories' with unique workings and responses to inconsistency. Vickers advocates for a particularist philosophy of science, encouraging an appreciation of the dramatic differences between identified 'inconsistencies in science.'
 
 * [ Two Kinds of Theory: What Psychology Can Learn from Einstein (McGann) ](https://journals.sagepub.com/doi/abs/10.1177/0959354320937804)
 
-Two types of theory, from Einstein: (1) constructive theories (roughly: providing underlying causes); (2) theories of principle (e.g., theory of relativity; lacking underlying causes). (2) are more general; in psychology - structural theories, such as ones in ecological / cultural psychology.
+A century ago, Einstein's distinction between theories of principle and constructive theories highlighted their unique roles, relationships with data, and developmental methods. The article delves into Einstein's model of theory formation, using the distinction to analyze scientific practice in psychology. Recent discussions in psychology advocate for increased theoretical sophistication, aligning with Einstein's view. The authors argue for the value of this distinction, emphasizing the need for a renewed commitment to a natural history of psychology. In psychology, the shift toward theoretical development is deemed essential alongside methodological sophistication.
 
-Very useful references at the beginning.
- (make description nicer) 
 
 * [ The Structure of Scientific Theories ](https://plato.stanford.edu/entries/structure-scientific-theories/)
 
-description
+The article explores the impact of scientific theories, from foundational ones like relativity to emerging disciplines such as cognitive science and GIS. It thoroughly examines the structure of scientific theories through the Syntactic, Semantic, and Pragmatic Views, addressing their composition, function, and relationship to the world. The Syntactic View characterizes theory structure as an uninterpreted axiomatic system, while the Semantic View involves state-space and model/set-theoretic elements. The Pragmatic View introduces internal and external pluralism in theory structure, highlighting the influence of practice, function, and application. Although these views are often perceived as mutually exclusive, the article suggests that they can be complementary, offering diverse insights into the intricate nature of scientific theories.
 
 * [ What distinguishes data from models? (Leonelli) ](https://pubmed.ncbi.nlm.nih.gov/30873249/)
 
-! There is a card on Trello with this same resource, watch for not replicating it
-description
-pic (?)
+The paper presents a framework to delineate the epistemic roles of data and models in empirical inquiry, critiquing Suppes' characterization for its inadequacy in explaining their roles in scientific practice. Using a case study in plant phenotyping, the author illustrates the difference between practices aiming to make data usable as evidence and those intending to use data to represent specific phenomena. The argument contends that the classification of objects as data or models is not contingent on intrinsic differences in physical properties, abstraction levels, or human intervention but on their distinctive roles in identifying and characterizing targets of investigation. The proposed characterization builds on Suppes' focus on data practices, avoiding the need for a rigid hierarchy or restrictive definition of data models as statistical constructs. The framework contributes to a nuanced understanding of the interplay between data and models in scientific inquiry.
+
+![image](https://github.com/sofijakrivokapic/cognitivemetascience/assets/125128460/025db581-cae9-46a6-b59e-f77c1d30b071)
+
 
 * [ The Theoretical Practices of Physics: Philosophical Essays (Hughes) ](https://www.jstor.org/stable/40930245)
-pic (?)
+
+A collection of eight philosophical essays that delve into the theoretical practices of physics. The initial two essays scrutinize these practices within physicists' treatises and journal articles, treating them as texts and positioning the philosopher of science as a critic. Subsequent essays address a spectrum of concerns in the intersection of philosophy and physics, encompassing topics such as laws, disunities, models and representation, computer simulation, explanation, and the discourse of physics. Hughes's work offers a critical examination of theoretical practices, providing insights into the complex relationship between philosophy and physics.
+
 
 * [ Theory, models and biology. (Shou, Bergstrom, Chakraborty & Skinner) ](https://elifesciences.org/articles/07158)
+
+The text discusses the importance of theory and mathematical models in biology, emphasizing their role in explaining natural phenomena and making predictions. It traces the history of theoretical biology, highlighting major breakthroughs such as the theory of evolution by natural selection. The divide between theoretical and empirical biologists is acknowledged, and suggestions are provided to bridge this gap, including enhancing the mathematical training of biology students and improving communication between theorists and experimentalists. The text concludes by encouraging the submission of theoretical and modeling papers to scientific journals like eLife.
 
 
 * [ Theory Construction in Genetics (Darden) ]([https://elifesciences.org/articles/07158](https://link.springer.com/chapter/10.1007/978-94-009-9015-9_9))
 
-description
+Lindley Darden, critiques the historical treatment of theory construction in philosophy of science, highlighting the focus on justification rather than discovery. The paper argues for a more comprehensive understanding of the ongoing process of theory construction, emphasizing that theories rarely emerge fully formed and discussing the interplay between discovery and justification. Darden identifies factors influencing theory construction, such as the domain to be explained, and explores the need for new ideas, introducing the role of analogies and interfield connections in providing these novel concepts. The historical case study presented suggests that connections to well-developed related fields may be a superior source of new ideas compared to analogies. The text criticizes the lack of attention to theory construction in philosophical discourse and aims to address this gap.
 
-* [ Artificial intelligence—A personal view Marr) ](https://www.sciencedirect.com/science/article/abs/pii/0004370277900133)
+
+* [ Artificial intelligence—A personal view Marr ](https://www.sciencedirect.com/science/article/abs/pii/0004370277900133)
+
+Discusses the goal of Artificial Intelligence in identifying and solving tractable information processing problems. It introduces two types of theory, labeled as Types 1 and 2, and outlines their characteristics. The text aims to provide a rigorous perspective on the subject, shedding light on past work and briefly reviewing future prospects in the field of AI.
 
 * [ Ghosts in machine learning for cognitive neuroscience: Moving from data to theory (Carlson et al.) ](https://www.sciencedirect.com/science/article/abs/pii/S1053811917306663)
 
+The text discusses challenges in applying machine learning to neuroimaging in cognitive neuroscience, referring to them as "ghosts." These challenges include source ambiguity in decoding brain data, issues in moving from data to stable phenomena, and the difficulty in interpreting neural representations. The text acknowledges the value of machine learning but emphasizes the need to address these challenges for a clearer understanding of brain computation and representation.
+
 * [ Theory and ontology in behavioural science (Janna Hastings, Susan Michie & Marie Johnston) ](https://www.nature.com/articles/s41562-020-0826-9)
+
+The article discusses the pivotal role of ontologies in cognitive science, serving as computable representations that aid in evidence aggregation and the resolution of theoretical debates. Through the explicit definition of entities across different theories, ontologies establish connections, illustrated by the example of 'perceived control' encompassing entities from various theories. The comparability of theories hinges on addressing identical entities, determining congruence or contradiction. Drawing parallels with successful examples from the natural sciences, the article advocates for integrating overarching theories in cognitive science. However, adopting theories in behavioral sciences poses a challenge due to numerous competing alternative entities, necessitating a principled approach. The suggested integrative approach based on ontologies underscores the importance of explicitly defining entities and relations for empirical annotation, striving towards a cumulative science.
+
 
 * [ Systematizing the theoretical virtues ](https://philarchive.org/rec/KEASTT-2)
 
+The author explores twelve major virtues of good theories, categorizing them into four classes: evidential, coherential, aesthetic, and diachronic. These virtues include evidential accuracy, causal adequacy, explanatory depth, internal consistency, internal coherence, universal coherence, beauty, simplicity, unification, durability, fruitfulness, and applicability. The classification system follows a pattern of progressive disclosure and expansion within each class. The article aims to clarify the virtues and propose their coordinated and cumulative role in theory formation and evaluation across disciplines. The author argues for an informal and flexible logic of theory choice, emphasizing the multifaceted relationships among the virtues. This systematization provides resources for future prescriptive studies and potential collaboration among logicians, epistemologists, and practitioners across disciplines.
+![image](https://github.com/sofijakrivokapic/cognitivemetascience/assets/125128460/a5a6a9b7-124c-438c-8473-7b40224e0fbe)
+
+
 * [ The Cognitive Structure of Scientific Theories (Giere) ](https://www.jstor.org/stable/188213)
- description?
+
+This paper advocates for a model-theoretic approach to comprehending the nature of scientific theories, drawing connections between philosophers' model-theoretic accounts and cognitive scientists' categorization concepts. The author proposes a more intricate structure for families of models, contrasting common assumptions. Using classical mechanics as an illustration, the paper suggests mapping families of models with "horizontal" graded structures, multiple hierarchical "vertical" structures, and local "radial" structures. These proposed structures have significant implications for the learning and application of scientific theories in real scientific practice.
+
+
 * [ How to Build a Theory in Cognitive Science (Hardcastle, 1995) ](https://philpapers.org/rec/HARHTB)
 
 * [ Automatic ontology construction from text: a review from shallow to deep learning trend (Al-aswadi et al., 2020) ] (https://www.researchgate.net/publication/337112076_Automatic_ontology_construction_from_text_a_review_from_shallow_to_deep_learning_trend)
 
+The paper explores the field of automatic ontology construction from textual data on the web, driven by the need to promote the semantic web. Ontology learning (OL) from text is the process of extracting and representing knowledge in machine-readable form. Ontologies play a crucial role in enhancing knowledge representation on the semantic web, benefiting applications like information retrieval, extraction, and question answering. Manual ontology construction is time-consuming and costly, leading to the development of various automated approaches and systems. The paper reviews these approaches, systems, and challenges, highlighting the shift from shallow learning to deep learning techniques for future ontology construction enhancements. The introduction emphasizes the significance of ontologies in the semantic web and addresses the need for efficient and automated construction processes.
+
+
 * [ How to Map Theory: Reliable Methods Are Fruitless Without Rigorous Theory (Gray) ](https://static1.squarespace.com/static/5e57f82eb306fc38c7637f33/t/5ed5662c14bfa61ddbf90813/1591043629199/how-to-map-theory.pdf)
+
+This article emphasizes the importance of combining reliable methods with rigorous theory in scientific research. It introduces the concept of Action Identification, suggesting psychological tension between focusing on methodological details and noticing broader connections. The paper proposes a technique called theory mapping to visually outline theories, providing specificity and synthesis. Theory mapping involves five elements and is illustrated using examples from moral judgment and cars. The technique is seen as a valuable resource for the scientific community, offering benefits such as specificity, preventing redundancies, increasing validity and reliability, and aiding in theory evaluation. The article concludes that while psychology has focused on methodological reliability, there is a need to improve the rigor of theory, and theory mapping serves as a useful tool for connecting ideas and building knowledge structures. The article also highlights theory maps available on www.theorymaps.org, showcasing various psychological phenomena mapped by experts.
+
 
 * [ What is a scientific theory? (Suppe, 1967) ](https://www.semanticscholar.org/paper/What-is-a-scientific-theory-Suppes/726ab54b16eebf3921f6dfebdc49e0ba426c3e86)
 
@@ -148,10 +174,14 @@ description
  * NO LINK
 
 * [ Structures of Scientific Theories (Craver, 2002) ](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470756614)
-* check if its a chapter or a book
+
+Introduction to the key areas of philosophy of science. Written by internationally distinguished scholars, each chapter addresses a specific problem, assesses the current state of the discipline on that topic, and explores potential future developments. The covered topics include experiment and observation, evolution, molecular and developmental biology, cognitive science, and feminist philosophy of science. This volume aims to engage both general readers and specialists, offering a solid foundation for deeper exploration and study in the philosophy of science.
 
 * [ Toward a Conceptual Framework for Biology (Scheiner, 2010) ](https://www.researchgate.net/publication/230844762_Toward_a_Conceptual_Framework_for_Biology)
-description (?)
+
+The paper advocates for an explicit conceptual framework in biology, proposing new overarching theories for cells, organisms, and genetics, inspired by the theory of evolution. This framework aims to accelerate scientific progress, reveal connections in biology, and offer insights into theory structures. The author suggests its application as an educational tool to transform biology teaching. The paper encourages a broader discussion within the biological community about the nature and structure of theories.
+
+![image](https://github.com/sofijakrivokapic/cognitivemetascience/assets/125128460/4f6ed45f-e49a-4aaf-83ec-652230614f5d)
 
 * [ Theoretical Neuroscience Rising (Abbott, 2008) ](https://www.sciencedirect.com/science/article/pii/S0896627308008921)
 
