@@ -12,7 +12,7 @@ In the following sections you will find list of resources for NLP and citation a
 From robust language models like SciBERT to annotation platforms like Doccano, these resources offer a diverse array of tools designed for text analysis and understanding. Whether you're exploring sentiment analysis, entity recognition, or document summarization, these tools provide the necessary infrastructure for work into the field of natural language processing, making them useful for anyone interested in advancing their understanding of linguistics, machine learning, or cognitive science.
 
 <details>
-<summary>Check it out!</summary>
+<summary>Tools</summary>
 
 * [ Lingo4G ](https://carrotsearch.com/lingo4g/)
 * [Cortext Manager](https://www.cortext.net/projects/cortext-manager/)
@@ -31,7 +31,61 @@ Weaviate is an open source vector database that stores both objects and vectors,
 * [ ChatGPT Retreival](https://github.com/openai/chatgpt-retrieval-plugin)
 * [ Atlas ](https://atlas.nomic.ai/)
 * [ twXplorer](https://twxplorer.knightlab.com/)
+* [Poe](https://poe.com/login)
+* [ChatBot Arena](https://chat.lmsys.org/)
 
+Ask any question to two anonymous models (e.g., ChatGPT, Claude, Llama) and vote for the better one! You can continue chatting until you identify a winner. Vote won't be counted if model identity is revealed during conversation.
+
+* [OpenAI’s Whisper](https://towardsdatascience.com/transcribe-audio-files-with-openais-whisper-e973ae348aa7)
+* [AI Library](https://library.phygital.plus/)
+
+Overview of many useful AI tools.
+
+* [OP Vault](https://github.com/pashpashpash/vault-ai)
+* [twarc](https://github.com/DocNow/twarc)
+
+Twarc is a command line tool and Python library for collecting and archiving Twitter JSON data via the Twitter API. It has separate commands (twarc and twarc2) for working with the older v1.1 API and the newer v2 API and Academic Access (respectively).
+ 
+* [Fine-Tuning ChatGPT for Sentiment Analysis With W&B](https://wandb.ai/mostafaibrahim17/ml-articles/reports/Fine-Tuning-ChatGPT-for-Sentiment-Analysis-With-W-B--Vmlldzo1NjMzMjQx)
+* [LM Studio](https://lmstudio.ai/)
+
+
+
+</details>
+
+
+<details>
+<summary>Articles</summary>
+
+* [Google "We Have No Moat, And Neither Does OpenAI](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
+ 
+* [A La Carte Embedding: Cheap but Effective Induction of Semantic Feature Vectors](https://arxiv.org/abs/1805.05388)
+  
+* [Reinventing search for research](https://about.system.com/blog/reinventing-search-for-research)
+  
+* [Sentiment Analysis through LLM Negotiations](https://arxiv.org/abs/2311.01876)
+  
+* [Chatbots Are Not Reliable Text Annotators](https://arxiv.org/abs/2311.05769)
+  
+* [Becoming Proficient in Document Extraction](https://www.llamaindex.ai/blog/becoming-proficient-in-document-extraction-32aa13046ed5)
+  
+* [LLM pricing sheet](https://docs.google.com/spreadsheets/d/1NX8ZW9Jnfpy88PC2d6Bwla87JRiv3GTeqwXoB4mKU_s/edit?pli=1#gid=0)
+  
+* [How should the advent of large language models affect the practice of science?](https://arxiv.org/abs/2312.03759)
+
+</details>
+
+<details>
+<summary>Additional resources</summary>
+ 
+* [OpenBooks: Concept Search](https://scholar.harvard.edu/stephenosadetz/digitalresearch)
+
+* [GitHub list: Scholarly Data Analysis](https://github.com/napsternxg/awesome-scholarly-data-analysis)
+  
+* [GPT-4 Open-Source Alternatives](https://www.datacamp.com/blog/12-gpt4-open-source-alternatives?ref=emergentmind)
+  
+* [ChatGPT Cheat Sheet for Data Science](https://www.datacamp.com/cheat-sheet/chatgpt-cheat-sheet-data-science)
+  
 
 </details>
 
@@ -68,6 +122,8 @@ OpenAIRE providesn a large database of research data that is stored in a graph f
 * [ Scite.AI ](https://scite.ai/)
 
 Analyses the textual context of citations, distinguishing between supporting, mentioning, and contrasting citations. Processes full-text articles to create ‘Smart Citations’, which contain information about citation relationships, contextual details, and classification types. Also offers Custom Dashboards, a Zotero Plugin, and a Browser Extension. Sources papers from publishers, preprint servers, and other reputable sources, accessing full-text PDFs and XMLs for analysis.
+
+* [Sciveyor](https://pencelab.be/projects/sciveyor/)
 
 </details>
 
@@ -169,10 +225,7 @@ This article emphasizes the importance of combining reliable methods with rigoro
 
 
 * [ What is a scientific theory? (Suppe, 1967) ](https://www.semanticscholar.org/paper/What-is-a-scientific-theory-Suppes/726ab54b16eebf3921f6dfebdc49e0ba426c3e86)
-
-* [ The Virtues of a Good Theory (McMullin, 2017) ](nemalinka)
- * NO LINK
-
+* [ The Virtues of a Good Theory (McMullin, 2017) ](https://philpapers.org/rec/MCMTVO)
 * [ Structures of Scientific Theories (Craver, 2002) ](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470756614)
 
 Introduction to the key areas of philosophy of science. Written by internationally distinguished scholars, each chapter addresses a specific problem, assesses the current state of the discipline on that topic, and explores potential future developments. The covered topics include experiment and observation, evolution, molecular and developmental biology, cognitive science, and feminist philosophy of science. This volume aims to engage both general readers and specialists, offering a solid foundation for deeper exploration and study in the philosophy of science.
@@ -238,8 +291,6 @@ NO LINK
 The authors used information-theoretic measure of linguistic similarity to investigate the organization and evolution of scientific fields. An analysis of almost 20 M papers from the past three decades reveals that the linguistic similarity is related but different from experts and citation-based classifications, leading to an improved view on the organization of science. A temporal analysis of the similarity of fields shows that some fields (e.g. computer science) are becoming increasingly central, but that on average the similarity between pairs of disciplines has not changed in the last decades. This suggests that tendencies of convergence (e.g. multi-disciplinarity) and divergence (e.g. specialization) of disciplines are in balance.
 
 * [Phylomemetic Patterns in Science Evolution—the Rise and Fall of Scientific Fields ( Chavalarias, 2013)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0054847)
-
-
 * [Adversarial alignment enables competing models to engage in cooperative theory building toward cumulative science (Ellemers et al., 2020)](https://www.pnas.org/doi/10.1073/pnas.1906720117)
 * [Theory choice, non-epistemic values, and machine learning (Dotan, 2020)](https://link.springer.com/article/10.1007/s11229-020-02773-2?utm_source=toc&utm_medium=email&utm_campaign=toc_11229_198_11&utm_content=etoc_springer_20210925)
 * [Studying grant decision-making: a linguistic analysis of review reports (Jurgens et al., 2018)](https://www.semanticscholar.org/paper/Measuring-the-Evolution-of-a-Scientific-Field-Jurgens-Kumar/16be95fd3f9b635e9ede5812cc223deebf0142bc)
@@ -267,7 +318,6 @@ The authors used information-theoretic measure of linguistic similarity to inves
 * [Predicted as observed? How to identify empirically adequate theoretical constructs](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9751867/#:~:text=The%20identification%20of%20an%20empirically,similar%20to%20an%20observed%20effect.)
 * [Interdisciplinarity in Cognitive Science: A Document Similarity Analysis](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13222?campaign=woletoc)
 * [Justification: Insights from Corpora](https://www.cambridge.org/core/journals/episteme/article/justification-insights-from-corpora/40F01B343326F68FA155D9F0B1C36790)
-* [Perhaps Psychology’s Replication Crisis is a Theoretical Crisis that is Only Masquerading as a Statistical One ](https://tidsskrift.dk/irtp/article/view/127764)
 * [Philosophers should prefer simpler theories](https://link.springer.com/article/10.1007/s11098-017-0994-2?wt_mc=alerts.TOCjournals&utm_source=toc&utm_medium=email&utm_campaign=toc_11098_175_12)
 * [(Mis)Understanding scientific disagreement: Success versus pursuit-worthiness in theory choice
 ](https://www.sciencedirect.com/science/article/abs/pii/S0039368120301898?via%3Dihub)
@@ -278,20 +328,13 @@ The authors used information-theoretic measure of linguistic similarity to inves
 * [Psychological models and their distractors](https://www.nature.com/articles/s44159-022-00031-5.epdf?sharing_token=NwsSehqydHeSD1ZjFJTFENRgN0jAjWel9jnR3ZoTv0MO3p1qY43iWPwg3981-lS0fOef_wBy9Va1yGG9UNG_uwPZnQ0zfdAKyJ5W9Vep95xpaqh7v2olBnyAUZJjCH0LfYMUyFzj3J75qecBeTAT4-5mxHbqSOzLv2qfKC5_bBk%3D)
 * [Against theory-motivated experimentation in science](https://osf.io/preprints/metaarxiv/ysv2u/)
 * [An Experiment in Measurement](https://www.jstor.org/stable/3143896)
-* [A discipline-wide investigation of the replicability of Psychology papers over the past two decades](https://www.pnas.org/doi/10.1073/pnas.2208863120)
 * [Where is the Trouble in Pseudo-empirical Research?](https://pubmed.ncbi.nlm.nih.gov/34405375/)
 * [Values in Science](https://www.cambridge.org/core/elements/abs/values-in-science/8C9899A25764AA9A791287325A511C3C)
 * [The Taboo Against Explicit Causal Inference in Nonexperimental Psychology](https://journals.sagepub.com/doi/full/10.1177/1745691620921521)
 * [The critiques and criticisms of positive psychology: A systematic review](https://www.tandfonline.com/doi/full/10.1080/17439760.2023.2178956)
 * [Defense of the scientific hypothesis](https://global.oup.com/academic/product/defense-of-the-scientific-hypothesis-9780190881481)
-* [Stepping in the Same River Twice: Replication in Biological Research](https://www.jstor.org/stable/j.ctt1n2tvtj)
-* [The problem with science: the reproducibility crisis and what to do about it](https://academic.oup.com/book/39705)
-* [The logical structure of experiments lays the foundation for a theory of reproducibility](https://www.biorxiv.org/content/10.1101/2022.08.10.503444v1)
-* [ReThinking Reproducibility as a Criterion for Research Quality](https://www.emerald.com/insight/content/doi/10.1108/S0743-41542018000036B009/full/html)
 * [Why Psychology Needs to Stop Striving for Novelty and How to Move Towards Theory-Driven Research](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.609802/full)
-* [No Evidence for a Replicability Crisis in Psychological Science](https://projects.iq.harvard.edu/psychology-replications/)
 * [Better methods can't make up for mediocre theory](https://www.nature.com/articles/d41586-019-03350-5)
-* [Reproducibility failures are essential to scientific inquiry](https://www.pnas.org/doi/full/10.1073/pnas.1806370115)
 * [The narrowing of literature use and the restricted mobility of papers in the sciences](https://www.pnas.org/doi/abs/10.1073/pnas.2117488119)
 * [Philosophy of Open Science](https://www.cambridge.org/core/elements/philosophy-of-open-science/0D049ECF635F3B676C03C6868873E406)
 * [Theorizing theory: Invitation to a broader conversation about ‘theory’ in sociology](https://compass.onlinelibrary.wiley.com/doi/10.1111/soc4.13085)
@@ -299,37 +342,39 @@ The authors used information-theoretic measure of linguistic similarity to inves
 * [Affirmative citation bias in scientific myth debunking: A three-in-one case study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222213)
 * [Metascience as a Scientific Social Movement](https://link.springer.com/article/10.1007/s11024-023-09490-3)
 * [Epistemic Markers in Science: Code and Datasets](https://philpapers.org/rec/MALEMI-3)
-* [A meta-analytic approach to evaluating the explanatory adequacy of theories]()
+* [A meta-analytic approach to evaluating the explanatory adequacy of theories](https://open.lnu.se/index.php/metapsychology/article/view/2741)
+* [Two Kinds of Theory in the Social Sciences](https://www.cambridge.org/core/journals/psa-proceedings-of-the-biennial-meeting-of-the-philosophy-of-science-association/article/abs/two-kinds-of-theory-in-the-social-sciences/83A104A1839FF6D2F216B912DBA4E461#)
+* [Psychological Theory and the Illusion of Scientific Prediction](https://link.springer.com/article/10.1007/s11013-021-09757-y)
+* [Theorizing theory: Invitation to a broader conversation about ‘theory’ in sociology](https://compass.onlinelibrary.wiley.com/doi/10.1111/soc4.13085)
+* [Progressive and degenerative journals: on the growth and appraisal of knowledge in scholarly publishing](https://link.springer.com/article/10.1007/s13194-022-00492-8)
+* [Normative Dissonance in Science: Results from a National Survey of U.S. Scientists](https://journals.sagepub.com/doi/10.1525/jer.2007.2.4.3)
+* [Modelling Scientific Communities](https://www.cambridge.org/core/elements/abs/modelling-scientific-communities/1ED3515216067E40A37A72094EE3CB15)
+* [Overpromising in science and technology: An evaluative conceptualization](https://www.tatup.de/index.php/tatup/article/view/7084/11878)
+* [CausalCite: A Causal Formulation of Paper Citations](https://arxiv.org/abs/2311.02790v2)
+* [Mapping the field of psychology: Trends in research topics 1995 - 1915](https://link.springer.com/article/10.1007/s11192-021-04069-9)
+* [What makes a good theory, and how do we make a theory good?](https://osf.io/preprints/psyarxiv/8fxds)
 * []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+
+
+</details>
+
+### Books and articles about replication crisis (mostly in psychology).
+
+<details>
+<summary>Replication Crisis in Psychology</summary>
+ 
+* [Stepping in the Same River Twice: Replication in Biological Research](https://www.jstor.org/stable/j.ctt1n2tvtj)
+ 
+* [A discipline-wide investigation of the replicability of Psychology papers over the past two decades](https://www.pnas.org/doi/10.1073/pnas.2208863120)
+  
+* [No Evidence for a Replicability Crisis in Psychological Science](https://projects.iq.harvard.edu/psychology-replications/)
+  
+* [The problem with science: the reproducibility crisis and what to do about it](https://academic.oup.com/book/39705)
+  
+* [Rethinking Reproducibility as a Criterion for Research Quality](https://www.emerald.com/insight/content/doi/10.1108/S0743-41542018000036B009/full/html)
+ 
+* [Reproducibility failures are essential to scientific inquiry](https://www.pnas.org/doi/full/10.1073/pnas.1806370115)
+ 
+* [The logical structure of experiments lays the foundation for a theory of reproducibility](https://www.biorxiv.org/content/10.1101/2022.08.10.503444v1)
+ 
+* [Perhaps Psychology’s Replication Crisis is a Theoretical Crisis that is Only Masquerading as a Statistical One ](https://tidsskrift.dk/irtp/article/view/127764)
