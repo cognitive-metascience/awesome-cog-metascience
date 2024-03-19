@@ -183,7 +183,7 @@ A collection of eight philosophical essays that delve into the theoretical pract
 The text discusses the importance of theory and mathematical models in biology, emphasizing their role in explaining natural phenomena and making predictions. It traces the history of theoretical biology, highlighting major breakthroughs such as the theory of evolution by natural selection. The divide between theoretical and empirical biologists is acknowledged, and suggestions are provided to bridge this gap, including enhancing the mathematical training of biology students and improving communication between theorists and experimentalists. The text concludes by encouraging the submission of theoretical and modeling papers to scientific journals like eLife.
 
 
-* [ Theory Construction in Genetics (Darden) ]([https://elifesciences.org/articles/07158](https://link.springer.com/chapter/10.1007/978-94-009-9015-9_9))
+* [ Theory Construction in Genetics (Darden) ](https://link.springer.com/chapter/10.1007/978-94-009-9015-9_9)
 
 Lindley Darden, critiques the historical treatment of theory construction in philosophy of science, highlighting the focus on justification rather than discovery. The paper argues for a more comprehensive understanding of the ongoing process of theory construction, emphasizing that theories rarely emerge fully formed and discussing the interplay between discovery and justification. Darden identifies factors influencing theory construction, such as the domain to be explained, and explores the need for new ideas, introducing the role of analogies and interfield connections in providing these novel concepts. The historical case study presented suggests that connections to well-developed related fields may be a superior source of new ideas compared to analogies. The text criticizes the lack of attention to theory construction in philosophical discourse and aims to address this gap.
 
@@ -259,10 +259,11 @@ The paper advocates for an explicit conceptual framework in biology, proposing n
 * [ If mathematical psychology did not exist we might need to invent it: A comment on theory building in psychology (Navarro) ](https://journals.sagepub.com/doi/10.1177/1745691620974769)
 
 * [ Theory, the Final Frontier? A Corpus-Based Analysis of the Role of Theory in Psychological Articles (Beller & Bender, 2017) ](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.00951/full)
+  
 * [ There Is Nothing So Theoretical as a Good Method (Anthony G. Greenwald, 2012) ](https://journals.sagepub.com/doi/10.1177/1745691611434210)
 
-* [ Theory construction in the psychopathology domain: A multiphase approach ]( )
-NO LINK
+* [ Theory construction in the psychopathology domain: A multiphase approach ]((https://journals.sagepub.com/doi/10.1177/0959354319893026))
+
 
 * [ Psychology: a giant with a feet of clay (Zagaria, Ando & Zennaro, 2020) ](https://link.springer.com/article/10.1007/s12124-020-09524-5)
 
