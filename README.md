@@ -222,3 +222,12 @@ NO LINK
 * [ When Experiments Serve Little Purpose: Misguided Research in Mainstream Psychology (Wallach & Wallach, DATE) ](https://journals.sagepub.com/doi/10.1177/0959354398082005)
 
 * [ Case Study in the Failure of Psychology as a Cumulative Science: The Spontaneous Recovery of Verbal Learning ](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315629049-20/case-study-failure-psychology-cumulative-science-spontaneous-recovery-verbal-learning)
+
+* [On the role of theory and modeling in neuroscience (Levenstein, 2020) ](https://arxiv.org/abs/2003.13825)
+* [The Power of Theory, Research Design, and Transdisciplinary Integration in Moving Psychopathology Forward (Vaidyanathan, 2015)](https://www.tandfonline.com/doi/full/10.1080/1047840X.2015.1015367)
+* [Theoretical Virtues in Science OUP Bibliographies (Schindler, 2020) ](https://www.oxfordbibliographies.com/display/document/obo-9780195396577/obo-9780195396577-0409.xml)
+* []()
+* []()
+* []()
+* []()
+* []()
