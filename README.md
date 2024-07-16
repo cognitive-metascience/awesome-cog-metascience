@@ -157,6 +157,50 @@ Analyses the textual context of citations, distinguishing between supporting, me
 
 </details>
 
+## Peer review
+
+Here you will find papers and resources related to the study of peer review.
+
+<details>
+<summary>Papers on peer review</summary>
+ 
+* [Revise and Resubmit: An Intertextual Model of Text-Based Collaboration in Peer Review](https://direct.mit.edu/coli/article/48/4/949/112555/Revise-and-Resubmit-An-Intertextual-Model-of-Text)
+* [Does My Rebuttal Matter? Insights from a Major NLP Conference](https://aclanthology.org/N19-1129v1.pdf)
+* [Yes-Yes-Yes: Proactive Data Collection for ACL Rolling Review and Beyond](https://aclanthology.org/2022.findings-emnlp.23/)
+* [Reviewer-Coerced Citation: Case Report, Update on Journal Policy and Suggestions for Future Prevention](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6748764/)
+* [Using Natural Language Processing to Support Peer-Feedback in the Age of Artificial Intelligence: A Cross-Disciplinary Framework and a Research Agenda](https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/deliver/index/docId/104873/file/104873.pdf)
+* [Machine Learning in Scientific Grant Review: Algorithmically Predicting Project Efficiency in High Energy Physics](https://link.springer.com/article/10.1007/s13194-022-00478-6)
+* [Can Large Language Models Provide Useful Feedback on Research Papers? A Large-Scale Empirical Analysis](#)
+* [Seamless Sharing and Peer Review of Code | Nature Computational Science](https://www.nature.com/articles/s43588-022-00388-w)
+* [Peer Review Innovations (Survey Results)](https://figshare.com/articles/dataset/PeerReviewInventoryDatasetxlsx/17161835)
+* [“Reproducible” Research in Mathematical Sciences Requires Changes in Our Peer Review Culture and Modernization of Our Current Publication Approach - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6240027/)
+* [Trust but Verify: How to Leverage Policies, Workflows, and Infrastructure to Ensure Computational Reproducibility in Publication · Issue 2.4, Fall 2020](https://hdsr.mitpress.mit.edu/pub/f0obb31j/release/3)
+* [Ending Human-Dependent Peer Review - The Scholarly Kitchen](https://scholarlykitchen.sspnet.org/2023/09/29/ending-human-dependent-peer-review/)
+* [Conservatism Gets Funded? A Field Experiment on the Role of Negative Information in Novel Project Evaluation](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.4107)
+* [Open Peer Review Urgently Requires Evidence: A Call to Action | PLOS Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002255)
+* [Unpacking P-Hacking and Publication Bias - American Economic Association](https://www.aeaweb.org/articles?id=10.1257/aer.20210795)
+* [Peer Community In - Free Peer Review & Validation of Preprints of Articles](https://peercommunityin.org/)
+* [Researchers Use GPT-4 to Generate Feedback on Scientific Manuscripts](https://stanford.io/3uhjubp)
+* [Time to Rethink Academic Publishing: The Peer Reviewer Crisis | mBio](https://journals.asm.org/doi/10.1128/mbio.01091-23)
+* [Review Mill at MDPI](https://predatoryreports.org/news/f/review-mill-at-mdpi)
+* [Code Review Automation: Strengths and Weaknesses of the State of the Art](https://arxiv.org/abs/2401.05136v1?utmsource=substack&utmmedium=email)
+* [Is Blinded Review Enough?](https://www.nber.org/papers/w25759?utmcampaign=ntwh&utmmedium=email&utm_source=ntwg16)
+* [Recommendations for Accelerating Open Preprint Peer Review to Improve the Culture of Science | PLOS Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002502)
+* [Anything Goes? Why Uphold Peer Review at All | by Ann-Sophie Barwich | Mar, 2024 | Medium](https://as-barwich.medium.com/anything-goes-eb90552dc677)
+* [A Corpus Study of the Term Evidence in Open Peer Reviews to Research Articles in the British Medical Journal](https://ricl.aelinco.es/index.php/ricl/article/view/205)
+
+</details>
+<details>
+<summary>Symposia</summary>
+ 
+[![Academic Journals Are Broken (Metascience 2023 Virtual Symposium)](https://img.youtube.com/vi/1G2btEDb0j0/0.jpg)](https://www.youtube.com/watch?v=1G2btEDb0j0)
+ 
+[![METASCIENCE 2021-9-17 Innovating Peer Review, Reconfiguring Scholarly Co...](https://img.youtube.com/vi/xBdh-V3gfLY/0.jpg)](https://youtube.com/watch?v=xBdh-V3gfLY&si=y1NHdOuSG_JU084W)
+
+
+</details>
+
+
 ## What makes a scientific theory good?
 
 In our Scientific Theories section, you'll find must-have resources for getting to grips with the essence of scientific exploration. You'll find classic reads to enlightening articles, and they all offer insights into theory building and disciplinary perspectives.
@@ -621,3 +665,4 @@ The paper proposes a novel method called TextMatch for evaluating the significan
 * [The logical structure of experiments lays the foundation for a theory of reproducibility](https://www.biorxiv.org/content/10.1101/2022.08.10.503444v1)
  
 * [Perhaps Psychology’s Replication Crisis is a Theoretical Crisis that is Only Masquerading as a Statistical One ](https://tidsskrift.dk/irtp/article/view/127764)
+
