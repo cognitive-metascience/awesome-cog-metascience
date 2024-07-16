@@ -1,30 +1,28 @@
 ![image](https://github.com/sofijakrivokapic/cognitivemetascience/assets/125128460/6944892e-be85-48b4-bb7a-a82d6dca01df)
 
-# An overview of useful resources for cognitive scientists
-**First draft of an *awesome list* of Cognitive Metascience lab's (University of Warsaw) list of resources.**
+# An Overview of Essential Resources for the Study of Cognitive Metascience
 
-Welcome to the GitHub page of our Cognitive Metascience Lab. Here, we aim to create a platform where we can share resources and knowledge with anyone interested in our field or related areas of study. Our mission is to contribute to the advancement of cognitive metascience and promote open access to valuable resources. Whether you're a researcher, student, or enthusiast, we invite you to check out our curated collection and contribute your own insights, tools, or findings. This platform is open to everyone, and we believe that collective knowledge-sharing can guide us forward in our pursuit of understanding the complexities of this scientific field. So feel free to browse, engage, and join us in exploration and discovery of sources that make out scientific work a bit easier.
+We are committed to creating a platform that facilitates the sharing of resources and knowledge for anyone interested in cognitive metascience and related fields. Our mission is to advance the study of cognitive metascience and promote open access to valuable resources. Whether you are a researcher, student, or enthusiast, we invite you to explore our curated collection and contribute your own insights, tools, or findings.
+This platform is open to everyone, and we believe that collective knowledge-sharing can guide us forward in our pursuit of understanding the complexities of this scientific field. Feel free to browse, engage, and join us in the exploration and discovery of resources that can make our scientific work more efficient and impactful.
 
-In the following sections you will find list of resources for NLP and citation analysis as well as a literature overview for scientific theories.
+In the following sections, you will find a list of resources for Natural Language Processing (NLP) and citation analysis, as well as a literature overview regarding scientific theories and peer review processes.
 
 ## Tools for NLP
 
-From robust language models like SciBERT to annotation platforms like Doccano, these resources offer a diverse array of tools designed for text analysis and understanding. Whether you're exploring sentiment analysis, entity recognition, or document summarization, these tools provide the necessary infrastructure for work into the field of natural language processing, making them useful for anyone interested in advancing their understanding of linguistics, machine learning, or cognitive science.
+From robust language models like SciBERT to annotation platforms like Doccano, these resources offer a diverse array of tools designed for text analysis and understanding. Whether you're exploring sentiment analysis, entity recognition, or document summarization, these tools provide the necessary infrastructure for work in the field of natural language processing, making them useful for anyone interested in advancing their understanding of linguistics, machine learning, or cognitive science.
 
 <details>
 <summary>Tools</summary>
 
 * [ Lingo4G ](https://carrotsearch.com/lingo4g/)
 
-By using Lingo46 you can get an overview of thousands of documents within seconds, instantly drill-down to documents of interest. You can build custom text mining pipelines ranging from simple search to 2D mapping, time-series analysis and duplicate detection. You can combine topics, clusters and 2D document maps into powerful visualizations.
+By using Lingo46 you can get an overview of thousands of documents within seconds, instantly drill-down to documents of interest. You can build custom text mining pipelines ranging from simple search to 2D mapping, time-series analysis and duplicate detection. You can combine topics, clusters and 2D document maps into powerful visualizations. Closed source. *Our lab has a research licence*.
 
 * [Cortext Manager](https://www.cortext.net/projects/cortext-manager/)
 
 The basic workflow of Cortex Manager is following: (1) upload raw files from various scientific bibliography databases (ISI Thomson Web of Science, Pubmed, etc) and simple CSV files, (2) transform text files into standard corpus database file, (3) perform a series of graphical analysis to produce descriptive statistical analysis, social graphs of entities and timeline based phylogenetic reconstructions, (4) download outputs in format compatible with third party software.
 
 * [ Text Visualization Browser ](https://textvis.lnu.se/)
-* [ SAGE Texti ](https://ocean.sagepub.com/texti)
-WEBSITE EXPIRED
 * [ doccano ](https://github.com/doccano/doccano)
 
 Doccano is an open-source text annotation tool for humans. It provides annotation features for text classification, sequence labeling, and sequence to sequence tasks. You can create labeled data for sentiment analysis, named entity recognition, text summarization, and so on. Just create a project, upload data, and start annotating. You can build a dataset in hours.
@@ -55,7 +53,7 @@ paperai is a semantic search and workflow application for medical/scientific pap
 
 * [ SciWING ](https://sciwing.io/)
 
-* [ ChatGPT Retreival](https://github.com/openai/chatgpt-retrieval-plugin)
+* [ ChatGPT Retrieval](https://github.com/openai/chatgpt-retrieval-plugin)
 * [ Atlas ](https://atlas.nomic.ai/)
 
 Interact, discover insights and build with **unstructured text, image and audio data.** Uncover data insights from your text and images - right from your web browser. Make sense of your data with AI computed topics, data labels and groupings and embeddings. Share text, image, and embeddings datasets with your team or customers. Scales from 100 to 100 million unstructured datapoints.
