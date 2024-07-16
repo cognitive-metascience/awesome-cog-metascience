@@ -131,16 +131,18 @@ The Citation Analysis tools featured here are essential for researchers seeking 
 An aggregator for diverse open knowledge sets, including scholarly works and patents. Offers discovery and analytics tools, ‘The Lens MetaRecord’ integrates multiple identifiers and sources to provide comprehensive and normalized metadata while maintaining provenance. 
 * [ SN SciGraph ](https://communities.springernature.com/users/82895-sn-scigraph)
 
-SN SciGraph speeds up content discovery and broadens the scope of research by exposing previously unseen patterns and presenting new perspectives (by linking Springer Nature publications to other data types such as grants, conferences, and freely available taxonomies). Provides programmatic access to SN SciGraph data via an API.
 * [ Webometric Analyst ](http://lexiurl.wlv.ac.uk/)
 
 Free Windows-based program, designed for altmetrics, citation analysis, social web analysis, and webometrics, including link analysis. Data is downloaded through APIs or directly, and various text and citation processing options are provided. Altmetrics and citation analysis cover data sources like Mendeley, Altmetric.com, Google Books, and WorldCat. Social web analysis includes platforms such as YouTube, Twitter, Goodreads, and Flickr.
+
 * [ Microsoft Academic Graph ](https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/)
  
-Knowledge graph with scientific publications, citation relationships and authors; supporting various applications. Updated bi-weekly, it offers an Azure Storage distribution service for research scenarios. Microsoft Academic Knowledge API, for lightweight usage, has a monthly quota and traffic throttles. 
+Depracated project; Knowledge graph with scientific publications, citation relationships and authors; supporting various applications 
+
 * [ Dimensions.AI ](https://www.dimensions.ai/)
 
-Database that integrates data and analytical tools in a single platform with over 106 million publications linked to grants, patents, clinical trials, datasets, policy papers, citations and article metrics.
+Database that integrates data and analytical tools in a single platform with over 106 million publications linked to grants, patents, clinical trials, datasets, policy papers, citations and article metrics. Extremely expensive, acquiring free access is near-impossible.
+
 * [ CiteSpace ](https://sourceforge.net/projects/citespace/)
 
 Visual analytic tool designed for studying scholarly literature trends. The workflow involves analytic tasks and a variety of configurations, emphasizing the importance of understanding underlying concepts and principles. The tool is unique for linking publications with grants, patents, clinical trials, datasets, and policy papers, offering a holistic research landscape.
