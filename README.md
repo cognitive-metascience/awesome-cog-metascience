@@ -185,6 +185,8 @@ Here you will find papers and resources related to the study of peer review.
 * [Review Mill at MDPI](https://predatoryreports.org/news/f/review-mill-at-mdpi)
 * [Code Review Automation: Strengths and Weaknesses of the State of the Art](https://arxiv.org/abs/2401.05136v1?utmsource=substack&utmmedium=email)
 * [Is Blinded Review Enough?](https://www.nber.org/papers/w25759?utmcampaign=ntwh&utmmedium=email&utm_source=ntwg16)
+Blinded review aims to reduce bias and increase diversity in scientific research. However, a study of Gates Foundation grant proposals found that female applicants received lower scores despite blinded review. This disparity is linked to gender differences in communication styles, not reviewer bias or proposal quality. Female applicants showed greater scientific output after an accepted proposal, highlighting the need to address gender disparities in evaluation.
+  
 * [Recommendations for Accelerating Open Preprint Peer Review to Improve the Culture of Science | PLOS Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002502)
 * [Anything Goes? Why Uphold Peer Review at All | by Ann-Sophie Barwich | Mar, 2024 | Medium](https://as-barwich.medium.com/anything-goes-eb90552dc677)
 * [A Corpus Study of the Term Evidence in Open Peer Reviews to Research Articles in the British Medical Journal](https://ricl.aelinco.es/index.php/ricl/article/view/205)
