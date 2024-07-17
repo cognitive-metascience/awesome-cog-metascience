@@ -211,12 +211,14 @@ Blinded review aims to reduce bias and increase diversity in scientific research
 * [Trust but Verify: How to Leverage Policies, Workflows, and Infrastructure to Ensure Computational Reproducibility in Publication · Issue 2.4, Fall 2020](https://hdsr.mitpress.mit.edu/pub/f0obb31j/release/3)
  
 </details>
+
 <details>
 <summary>Datasets</summary>
 
 * [Peer Review Innovations (Survey Results)](https://figshare.com/articles/dataset/PeerReviewInventoryDatasetxlsx/17161835) Very useful summary of various innovations in the peer review process.
 
 </details>
+
 <details>
 <summary>Symposia</summary>
  
@@ -252,3 +254,4 @@ Blinded review aims to reduce bias and increase diversity in scientific research
  
 * [Perhaps Psychology’s Replication Crisis is a Theoretical Crisis that is Only Masquerading as a Statistical One ](https://tidsskrift.dk/irtp/article/view/127764)
 
+</details>
