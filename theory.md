@@ -3,8 +3,7 @@
 <details>
 <summary>Check it out!</summary>
 
- {% raw %}
- {% capture markdown_content %}
+ {% capture my_markdown %}
 
 * [ There Are No Such Things As Theories (Stephen French, 2020) ](https://global.oup.com/academic/product/there-are-no-such-things-as-theories-9780198848158?prevNumResPerPage=20&prevSortField=8&resultsPerPage=20&sortField=8&start=20&lang=en&cc=pl#)
 
@@ -442,6 +441,6 @@ The paper proposes a novel method called TextMatch for evaluating the significan
 
 
 {% endcapture %}
-{{ markdown_content | markdownify }}
+{{ my_markdown | markdownify }}
 {% endraw %}
 </details>
