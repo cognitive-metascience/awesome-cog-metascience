@@ -7,7 +7,7 @@ Here you will find papers and resources related to the study of peer review.
 
 ### Is gatekeeping necessary?
 * [Anything Goes? Why Uphold Peer Review at All | by Ann-Sophie Barwich | Mar, 2024 | Medium](https://as-barwich.medium.com/anything-goes-eb90552dc677)
-* [Heesen, R., & Bright, L. K. (2021). Is Peer Review a Good Idea? The British Journal for the Philosophy of Science, 72(3), 635–663.] (https://doi.org/10.1093/bjps/axz029) The answer is no (Goodwin's law of headlines).
+* [Heesen, R., & Bright, L. K. (2021). Is Peer Review a Good Idea? The British Journal for the Philosophy of Science, 72(3), 635ï¿½663.] (https://doi.org/10.1093/bjps/axz029) The answer is no (Goodwin's law of headlines).
 * [Desmond, H. (2024). Gatekeeping should be conserved in the open science era. Synthese, 203(5), 160](https://doi.org/10.1007/s11229-024-04559-2)
 
 ### Studying Peer Review
@@ -46,8 +46,8 @@ Blinded review aims to reduce bias and increase diversity in scientific research
 
 ### Peer Review of Code
 * [Seamless Sharing and Peer Review of Code | Nature Computational Science](https://www.nature.com/articles/s43588-022-00388-w)
-* [“Reproducible” Research in Mathematical Sciences Requires Changes in Our Peer Review Culture and Modernization of Our Current Publication Approach - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6240027/)
-* [Trust but Verify: How to Leverage Policies, Workflows, and Infrastructure to Ensure Computational Reproducibility in Publication · Issue 2.4, Fall 2020](https://hdsr.mitpress.mit.edu/pub/f0obb31j/release/3)
+* [ï¿½Reproducibleï¿½ Research in Mathematical Sciences Requires Changes in Our Peer Review Culture and Modernization of Our Current Publication Approach - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6240027/)
+* [Trust but Verify: How to Leverage Policies, Workflows, and Infrastructure to Ensure Computational Reproducibility in Publication ï¿½ Issue 2.4, Fall 2020](https://hdsr.mitpress.mit.edu/pub/f0obb31j/release/3)
  
 </details>
 
