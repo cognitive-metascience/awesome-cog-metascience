@@ -1,13 +1,97 @@
 ﻿In our Scientific Theories section, you'll find must-have resources for getting to grips with the essence of scientific exploration. You'll find classic reads to enlightening articles, and they all offer insights into theory building and disciplinary perspectives.
 
 <details>
-<summary>Check it out!</summary>
-
- {% capture my_markdown %}
+<summary>Nature and Structure of Scientific Theories</summary>
 
 * [ There Are No Such Things As Theories (Stephen French, 2020) ](https://global.oup.com/academic/product/there-are-no-such-things-as-theories-9780198848158?prevNumResPerPage=20&prevSortField=8&resultsPerPage=20&sortField=8&start=20&lang=en&cc=pl#)
 
 The book considers the fundamental question: what is a scientific theory? The book presents a range of options - from theories as sets of propositions, to theories as families of models, abstract artifacts, or fictions - and highlights the various problems they all face.
+
+* [ The Structure of Scientific Theories ](https://plato.stanford.edu/entries/structure-scientific-theories/)
+
+The article explores the impact of scientific theories, from foundational ones like relativity to emerging disciplines such as cognitive science and GIS. It thoroughly examines the structure of scientific theories through the Syntactic, Semantic, and Pragmatic Views, addressing their composition, function, and relationship to the world. The Syntactic View characterizes theory structure as an uninterpreted axiomatic system, while the Semantic View involves state-space and model/set-theoretic elements. The Pragmatic View introduces internal and external pluralism in theory structure, highlighting the influence of practice, function, and application. Although these views are often perceived as mutually exclusive, the article suggests that they can be complementary, offering diverse insights into the intricate nature of scientific theories.
+
+* [ What is a scientific theory? (Suppe, 1967) ](https://www.semanticscholar.org/paper/What-is-a-scientific-theory-Suppes/726ab54b16eebf3921f6dfebdc49e0ba426c3e86)
+
+Suppe delves into the fundamental concept of scientific theory within the philosophy of science. He offers a comprehensive analysis and clarification of the term "scientific theory" by exploring its various dimensions and characteristics. Through a thorough examination of historical and contemporary examples from different scientific disciplines, Suppe outlines the essential components that distinguish scientific theories from mere hypotheses or empirical generalizations. He emphasizes the role of scientific theories in organizing and explaining empirical data, predicting future observations, and guiding scientific inquiry. Furthermore, Suppe addresses common misconceptions and challenges associated with the understanding of scientific theories, including the distinction between theories and laws, the role of evidence and falsifiability, and the dynamics of theory change and revision.
+
+* [ Structures of Scientific Theories (Craver, 2002) ](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470756614)
+
+Craver presents a comprehensive analysis of the conceptual frameworks that underlie scientific theories. Focusing on the structure and organization of scientific theories across various disciplines, Craver explores how theories are constructed, articulated, and refined to explain empirical phenomena. Through a combination of historical insights and contemporary case studies, he elucidates the diverse forms and components of scientific theories, including laws, models, concepts, and hypotheses. Craver also discusses the role of theoretical structures in guiding scientific inquiry, facilitating empirical research, and fostering interdisciplinary collaborations. Furthermore, he examines the dynamic nature of scientific theories, emphasizing their capacity for evolution and adaptation in response to new evidence and theoretical advances.
+
+* [ The Cognitive Structure of Scientific Theories (Giere) ](https://www.jstor.org/stable/188213)
+
+This paper advocates for a model-theoretic approach to comprehending the nature of scientific theories, drawing connections between philosophers' model-theoretic accounts and cognitive scientists' categorization concepts. The author proposes a more intricate structure for families of models, contrasting common assumptions. Using classical mechanics as an illustration, the paper suggests mapping families of models with "horizontal" graded structures, multiple hierarchical "vertical" structures, and local "radial" structures. These proposed structures have significant implications for the learning and application of scientific theories in real scientific practice.
+
+
+</details>
+
+<details>
+<summary>Theory Development and Construction</summary>
+
+* [ Theory Construction Methodology: A practical framework for theory formation in psychology (Borsboom et al., 2020) ](https://www.researchgate.net/publication/349409485_Theory_Construction_Methodology_A_Practical_Framework_for_Building_Theories_in_Psychology)
+
+This article presents a systematic and practical approach to theory formation within the field of psychology. The authors introduce a comprehensive methodology that guides researchers through the process of constructing, refining, and evaluating theories to explain psychological phenomena. Drawing from philosophical and methodological insights, as well as empirical examples from psychology and related disciplines, the book offers clear guidelines for defining constructs, formulating hypotheses, designing empirical studies, and assessing the validity of theoretical propositions. By emphasizing the importance of rigorous theory construction, Borsboom et al. underscore the significance of theory-driven research in advancing scientific knowledge and understanding human behavior. Moreover, the authors address common challenges and misconceptions surrounding theory construction, providing researchers with practical tools and strategies to enhance the quality and coherence of their theoretical frameworks.
+
+* [ Creative Hypothesis Generating in Psychology: Some Useful Heuristics (McGuire, 1997) ](https://www.annualreviews.org/doi/abs/10.1146/annurev.psych.48.1.1)
+
+The author explores strategies for generating innovative hypotheses in psychological research. Drawing upon insights from cognitive psychology and creative thinking, McGuire presents a collection of heuristic techniques aimed at stimulating novel ideas and hypotheses in the realm of psychology. Through a blend of theoretical discussion and practical examples, McGuire elucidates various heuristic approaches, including analogical reasoning, counterfactual thinking, and divergent thinking. He emphasizes the importance of flexibility, openness to unconventional ideas, and willingness to challenge established assumptions in the hypothesis generation process. Furthermore, McGuire discusses how these heuristic strategies can be integrated into research practices to inspire creativity and innovation, ultimately enriching the theoretical landscape of psychology.
+
+* [ How to Build a Theory in Cognitive Science (Hardcastle, 1995) ](https://philpapers.org/rec/HARHTB)
+
+The book covers various aspects of theory construction, including defining concepts, formulating hypotheses, designing experiments, collecting and analyzing data, and revising theories based on empirical findings. It also explores different theoretical frameworks and methodologies commonly used in cognitive science, such as computational modeling, neuroscience, psychology, linguistics, and philosophy of mind.
+Throughout the text, Hardcastle emphasizes the importance of interdisciplinary collaboration and critical thinking in theory development. She highlights the challenges and pitfalls that researchers may encounter during the process and provides practical strategies for overcoming them.
+
+* [ Theory Construction in Genetics (Darden) ](https://link.springer.com/chapter/10.1007/978-94-009-9015-9_9)
+
+Lindley Darden critiques the historical treatment of theory construction in philosophy of science, highlighting the focus on justification rather than discovery. The paper argues for a more comprehensive understanding of the ongoing process of theory construction, emphasizing that theories rarely emerge fully formed and discussing the interplay between discovery and justification. Darden identifies factors influencing theory construction, such as the domain to be explained, and explores the need for new ideas, introducing the role of analogies and interfield connections in providing these novel concepts. The historical case study presented suggests that connections to well-developed related fields may be a superior source of new ideas compared to analogies. The text criticizes the lack of attention to theory construction in philosophical discourse and aims to address this gap.
+
+* [ Theory construction in the psychopathology domain: A multiphase approach ]((https://journals.sagepub.com/doi/10.1177/0959354319893026))
+
+Theory construction in the psychopathology domain is a multifaceted and complex endeavor that requires a systematic and rigorous approach. This paper proposes a multiphase methodology for theory construction in psychopathology, aiming to provide researchers with a structured framework to guide their theoretical endeavors. Drawing upon insights from various disciplines including psychology, psychiatry, and neuroscience, the proposed approach involves several key phases: (1) Conceptualization and Literature Review, (2) Hypothesis Generation, (3) Model Development, (4) Empirical Testing, and (5) Revision and Refinement. 
+
+</details>
+
+<details>
+<summary>Evaluation and Selection of Theories</summary>
+
+* [Theoretical Virtues in Science OUP Bibliographies (Schindler, 2020) ](https://www.oxfordbibliographies.com/display/document/obo-9780195396577/obo-9780195396577-0409.xml)
+
+* [ Systematizing the theoretical virtues (Keas) ](https://philarchive.org/rec/KEASTT-2)
+
+The author explores twelve major virtues of good theories, categorizing them into four classes: evidential, coherential, aesthetic, and diachronic. These virtues include evidential accuracy, causal adequacy, explanatory depth, internal consistency, internal coherence, universal coherence, beauty, simplicity, unification, durability, fruitfulness, and applicability. The classification system follows a pattern of progressive disclosure and expansion within each class. The article aims to clarify the virtues and propose their coordinated and cumulative role in theory formation and evaluation across disciplines. The author argues for an informal and flexible logic of theory choice, emphasizing the multifaceted relationships among the virtues. This systematization provides resources for future prescriptive studies and potential collaboration among logicians, epistemologists, and practitioners across disciplines.
+
+![image](https://github.com/sofijakrivokapic/cognitivemetascience/assets/125128460/a5a6a9b7-124c-438c-8473-7b40224e0fbe)
+
+* [Theoretical Virtues: Do Scientists Think What Philosophers Think They Ought to Think? (Schindler, 2022)](https://www.cambridge.org/core/journals/philosophy-of-science/article/abs/theoretical-virtues-do-scientists-think-what-philosophers-think-they-ought-to-think/0C25D6844ADF529BB2912DD5DEF901CE)
+
+The paper explores the role of theoretical virtues in theory acceptance and belief within both scientific and philosophical contexts. It presents findings from a quantitative study involving scientists from natural and social sciences, comparing their perspectives on theoretical virtues with those of philosophers. Surprising results include the existence of preference orders regarding theoretical virtues among all three groups, indicating a more determinate process of theory choice than previously thought. Additionally, similarities in preference orders are observed across the groups, suggesting a commonality in their views. Notably, social scientists emphasize simplicity as an epistemic virtue, contrasting with philosophers' perspectives. Furthermore, all groups prefer syntactic parsimony over ontological parsimony.
+
+* [ The Virtues of a Good Theory (McMullin, 2017) ](https://philpapers.org/rec/MCMTVO)
+
+McMullin explores the qualities that characterize an exemplary scientific theory. Drawing from the philosophy of science, McMullin argues that a good theory possesses several virtues that contribute to its explanatory power, predictive accuracy, and overall scientific merit. Through a detailed examination of historical and contemporary examples across various scientific disciplines, McMullin identifies key virtues such as coherence, simplicity, explanatory depth, empirical adequacy, and fruitfulness. He elucidates how these virtues interact and complement each other, shaping the development and evaluation of scientific theories. Moreover, McMullin discusses the role of values and pragmatic considerations in assessing the virtues of theories, highlighting the importance of epistemic and social factors in scientific inquiry.
+
+* [Philosophers should prefer simpler theories (Bradley)](https://link.springer.com/article/10.1007/s11098-017-0994-2?wt_mc=alerts.TOCjournals&utm_source=toc&utm_medium=email&utm_campaign=toc_11098_175_12)
+
+The book argues for the epistemic superiority of simpler theories in philosophy. Bradley contends that simplicity serves as a crucial criterion for theory evaluation, promoting greater explanatory power, predictive accuracy, and overall epistemic economy. Drawing from philosophical traditions and empirical evidence, the author examines various formulations of simplicity and their implications for theory choice in philosophy. Through a critical analysis of competing theories and conceptual frameworks, Bradley demonstrates how simplicity enhances theoretical coherence, conciseness, and explanatory scope. Moreover, the paper explores the implications of preferring simpler theories for philosophical methodology, foundational debates, and the pursuit of truth. By advocating for the epistemic virtues of simplicity, Bradley's work contributes to a deeper understanding of theory evaluation in philosophy and offers insights into the principles guiding rational inquiry and knowledge acquisition.
+
+</details>
+
+<details>
+<summary>Interdisciplinarity and Theories</summary>
+
+* [Interdisciplinarity in Cognitive Science: A Document Similarity Analysis](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13222?campaign=woletoc)
+
+The paper introduces a methodology to quantify interdisciplinary aspects of research in cognitive science. It proposes models for text similarity analysis using the Doc2Vec method to understand the relationship between publications and specific research fields. The findings suggest that cognitive science collaborates closely with disciplines like psychology, philosophy, linguistics, and computer science, but has limited engagement with anthropology and neuroscience. Overall, the study highlights the interdisciplinary nature of cognitive science over the past few decades.
+
+* [Interdisciplinarity can aid the spread of better methods between scientific communities](https://journals.sagepub.com/doi/10.1177/26339137221131816?utm_source=selligent&utm_medium=email&utm_campaign=&utm_content=&utm_term=&m_i=7YUWC7E99LseZQvw6siti1aj0%2BaR_sKURKn0FJjfTpVXEsmaSl3S9ok6vFlJfcgya1bqZTfkNnsCFsbu9Y1HK86GJ4X1Am&M_BT=32925675224431)
+
+Why do bad methods persist in some academic disciplines, even when they have been widely rejected in others? What factors allow good methodological advances to spread across disciplines? In this paper, the authors investigate some key features determining the success and failure of methodological spread between the sciences. The authors introduce a formal model that considers factors like methodological competence and reviewer bias toward one’s own methods. The authors show how these self-preferential biases can protect poor methodology within scientific communities, and lack of reviewer competence can contribute to failures to adopt better methods.
+
+</details>
+<details>
+<summary>Mixed Bag</summary>
+
 
 * [ A decade of theory as reflected in Psychological Science (2009–2019) ](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247986)
 
@@ -33,10 +117,6 @@ Addressing recent philosophical claims, Peter Vickers examines eight alleged 'in
 A century ago, Einstein's distinction between theories of principle and constructive theories highlighted their unique roles, relationships with data, and developmental methods. The article delves into Einstein's model of theory formation, using the distinction to analyze scientific practice in psychology. Recent discussions in psychology advocate for increased theoretical sophistication, aligning with Einstein's view. The authors argue for the value of this distinction, emphasizing the need for a renewed commitment to a natural history of psychology. In psychology, the shift toward theoretical development is deemed essential alongside methodological sophistication.
 
 
-* [ The Structure of Scientific Theories ](https://plato.stanford.edu/entries/structure-scientific-theories/)
-
-The article explores the impact of scientific theories, from foundational ones like relativity to emerging disciplines such as cognitive science and GIS. It thoroughly examines the structure of scientific theories through the Syntactic, Semantic, and Pragmatic Views, addressing their composition, function, and relationship to the world. The Syntactic View characterizes theory structure as an uninterpreted axiomatic system, while the Semantic View involves state-space and model/set-theoretic elements. The Pragmatic View introduces internal and external pluralism in theory structure, highlighting the influence of practice, function, and application. Although these views are often perceived as mutually exclusive, the article suggests that they can be complementary, offering diverse insights into the intricate nature of scientific theories.
-
 * [ What distinguishes data from models? (Leonelli) ](https://pubmed.ncbi.nlm.nih.gov/30873249/)
 
 The paper presents a framework to delineate the epistemic roles of data and models in empirical inquiry, critiquing Suppes' characterization for its inadequacy in explaining their roles in scientific practice. Using a case study in plant phenotyping, the author illustrates the difference between practices aiming to make data usable as evidence and those intending to use data to represent specific phenomena. The argument contends that the classification of objects as data or models is not contingent on intrinsic differences in physical properties, abstraction levels, or human intervention but on their distinctive roles in identifying and characterizing targets of investigation. The proposed characterization builds on Suppes' focus on data practices, avoiding the need for a rigid hierarchy or restrictive definition of data models as statistical constructs. The framework contributes to a nuanced understanding of the interplay between data and models in scientific inquiry.
@@ -54,11 +134,6 @@ A collection of eight philosophical essays that delve into the theoretical pract
 The text discusses the importance of theory and mathematical models in biology, emphasizing their role in explaining natural phenomena and making predictions. It traces the history of theoretical biology, highlighting major breakthroughs such as the theory of evolution by natural selection. The divide between theoretical and empirical biologists is acknowledged, and suggestions are provided to bridge this gap, including enhancing the mathematical training of biology students and improving communication between theorists and experimentalists. The text concludes by encouraging the submission of theoretical and modeling papers to scientific journals like eLife.
 
 
-* [ Theory Construction in Genetics (Darden) ](https://link.springer.com/chapter/10.1007/978-94-009-9015-9_9)
-
-Lindley Darden, critiques the historical treatment of theory construction in philosophy of science, highlighting the focus on justification rather than discovery. The paper argues for a more comprehensive understanding of the ongoing process of theory construction, emphasizing that theories rarely emerge fully formed and discussing the interplay between discovery and justification. Darden identifies factors influencing theory construction, such as the domain to be explained, and explores the need for new ideas, introducing the role of analogies and interfield connections in providing these novel concepts. The historical case study presented suggests that connections to well-developed related fields may be a superior source of new ideas compared to analogies. The text criticizes the lack of attention to theory construction in philosophical discourse and aims to address this gap.
-
-
 * [ Artificial intelligence—A personal view Marr ](https://www.sciencedirect.com/science/article/abs/pii/0004370277900133)
 
 Discusses the goal of Artificial Intelligence in identifying and solving tractable information processing problems. It introduces two types of theory, labeled as Types 1 and 2, and outlines their characteristics. The text aims to provide a rigorous perspective on the subject, shedding light on past work and briefly reviewing future prospects in the field of AI.
@@ -72,23 +147,6 @@ The text discusses challenges in applying machine learning to neuroimaging in co
 The article discusses the pivotal role of ontologies in cognitive science, serving as computable representations that aid in evidence aggregation and the resolution of theoretical debates. Through the explicit definition of entities across different theories, ontologies establish connections, illustrated by the example of 'perceived control' encompassing entities from various theories. The comparability of theories hinges on addressing identical entities, determining congruence or contradiction. Drawing parallels with successful examples from the natural sciences, the article advocates for integrating overarching theories in cognitive science. However, adopting theories in behavioral sciences poses a challenge due to numerous competing alternative entities, necessitating a principled approach. The suggested integrative approach based on ontologies underscores the importance of explicitly defining entities and relations for empirical annotation, striving towards a cumulative science.
 
 
-* [ Systematizing the theoretical virtues ](https://philarchive.org/rec/KEASTT-2)
-
-The author explores twelve major virtues of good theories, categorizing them into four classes: evidential, coherential, aesthetic, and diachronic. These virtues include evidential accuracy, causal adequacy, explanatory depth, internal consistency, internal coherence, universal coherence, beauty, simplicity, unification, durability, fruitfulness, and applicability. The classification system follows a pattern of progressive disclosure and expansion within each class. The article aims to clarify the virtues and propose their coordinated and cumulative role in theory formation and evaluation across disciplines. The author argues for an informal and flexible logic of theory choice, emphasizing the multifaceted relationships among the virtues. This systematization provides resources for future prescriptive studies and potential collaboration among logicians, epistemologists, and practitioners across disciplines.
-
-![image](https://github.com/sofijakrivokapic/cognitivemetascience/assets/125128460/a5a6a9b7-124c-438c-8473-7b40224e0fbe)
-
-* [ The Cognitive Structure of Scientific Theories (Giere) ](https://www.jstor.org/stable/188213)
-
-This paper advocates for a model-theoretic approach to comprehending the nature of scientific theories, drawing connections between philosophers' model-theoretic accounts and cognitive scientists' categorization concepts. The author proposes a more intricate structure for families of models, contrasting common assumptions. Using classical mechanics as an illustration, the paper suggests mapping families of models with "horizontal" graded structures, multiple hierarchical "vertical" structures, and local "radial" structures. These proposed structures have significant implications for the learning and application of scientific theories in real scientific practice.
-
-
-* [ How to Build a Theory in Cognitive Science (Hardcastle, 1995) ](https://philpapers.org/rec/HARHTB)
-
-The book covers various aspects of theory construction, including defining concepts, formulating hypotheses, designing experiments, collecting and analyzing data, and revising theories based on empirical findings. It also explores different theoretical frameworks and methodologies commonly used in cognitive science, such as computational modeling, neuroscience, psychology, linguistics, and philosophy of mind.
-Throughout the text, Hardcastle emphasizes the importance of interdisciplinary collaboration and critical thinking in theory development. She highlights the challenges and pitfalls that researchers may encounter during the process and provides practical strategies for overcoming them.
-
-
 * [ Automatic ontology construction from text: a review from shallow to deep learning trend (Al-aswadi et al., 2020) ] (https://www.researchgate.net/publication/337112076_Automatic_ontology_construction_from_text_a_review_from_shallow_to_deep_learning_trend)
 
 The paper explores the field of automatic ontology construction from textual data on the web, driven by the need to promote the semantic web. Ontology learning (OL) from text is the process of extracting and representing knowledge in machine-readable form. Ontologies play a crucial role in enhancing knowledge representation on the semantic web, benefiting applications like information retrieval, extraction, and question answering. Manual ontology construction is time-consuming and costly, leading to the development of various automated approaches and systems. The paper reviews these approaches, systems, and challenges, highlighting the shift from shallow learning to deep learning techniques for future ontology construction enhancements. The introduction emphasizes the significance of ontologies in the semantic web and addresses the need for efficient and automated construction processes.
@@ -99,18 +157,6 @@ The paper explores the field of automatic ontology construction from textual dat
 This article emphasizes the importance of combining reliable methods with rigorous theory in scientific research. It introduces the concept of Action Identification, suggesting psychological tension between focusing on methodological details and noticing broader connections. The paper proposes a technique called theory mapping to visually outline theories, providing specificity and synthesis. Theory mapping involves five elements and is illustrated using examples from moral judgment and cars. The technique is seen as a valuable resource for the scientific community, offering benefits such as specificity, preventing redundancies, increasing validity and reliability, and aiding in theory evaluation. The article concludes that while psychology has focused on methodological reliability, there is a need to improve the rigor of theory, and theory mapping serves as a useful tool for connecting ideas and building knowledge structures. The article also highlights theory maps available on www.theorymaps.org, showcasing various psychological phenomena mapped by experts.
 
 
-* [ What is a scientific theory? (Suppe, 1967) ](https://www.semanticscholar.org/paper/What-is-a-scientific-theory-Suppes/726ab54b16eebf3921f6dfebdc49e0ba426c3e86)
-
-Suppe delves into the fundamental concept of scientific theory within the philosophy of science. He offers a comprehensive analysis and clarification of the term "scientific theory" by exploring its various dimensions and characteristics. Through a thorough examination of historical and contemporary examples from different scientific disciplines, Suppe outlines the essential components that distinguish scientific theories from mere hypotheses or empirical generalizations. He emphasizes the role of scientific theories in organizing and explaining empirical data, predicting future observations, and guiding scientific inquiry. Furthermore, Suppe addresses common misconceptions and challenges associated with the understanding of scientific theories, including the distinction between theories and laws, the role of evidence and falsifiability, and the dynamics of theory change and revision.
- 
-* [ The Virtues of a Good Theory (McMullin, 2017) ](https://philpapers.org/rec/MCMTVO)
-
-McMullin explores the qualities that characterize an exemplary scientific theory. Drawing from the philosophy of science, McMullin argues that a good theory possesses several virtues that contribute to its explanatory power, predictive accuracy, and overall scientific merit. Through a detailed examination of historical and contemporary examples across various scientific disciplines, McMullin identifies key virtues such as coherence, simplicity, explanatory depth, empirical adequacy, and fruitfulness. He elucidates how these virtues interact and complement each other, shaping the development and evaluation of scientific theories. Moreover, McMullin discusses the role of values and pragmatic considerations in assessing the virtues of theories, highlighting the importance of epistemic and social factors in scientific inquiry.
-
-* [ Structures of Scientific Theories (Craver, 2002) ](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470756614)
-
-Craver presents a comprehensive analysis of the conceptual frameworks that underlie scientific theories. Focusing on the structure and organization of scientific theories across various disciplines, Craver explores how theories are constructed, articulated, and refined to explain empirical phenomena. Through a combination of historical insights and contemporary case studies, he elucidates the diverse forms and components of scientific theories, including laws, models, concepts, and hypotheses. Craver also discusses the role of theoretical structures in guiding scientific inquiry, facilitating empirical research, and fostering interdisciplinary collaborations. Furthermore, he examines the dynamic nature of scientific theories, emphasizing their capacity for evolution and adaptation in response to new evidence and theoretical advances.
-
 * [ Toward a Conceptual Framework for Biology (Scheiner, 2010) ](https://www.researchgate.net/publication/230844762_Toward_a_Conceptual_Framework_for_Biology)
 
 The paper advocates for an explicit conceptual framework in biology, proposing new overarching theories for cells, organisms, and genetics, inspired by the theory of evolution. This framework aims to accelerate scientific progress, reveal connections in biology, and offer insights into theory structures. The author suggests its application as an educational tool to transform biology teaching. The paper encourages a broader discussion within the biological community about the nature and structure of theories.
@@ -120,10 +166,6 @@ The paper advocates for an explicit conceptual framework in biology, proposing n
 * [ Theoretical Neuroscience Rising (Abbott, 2008) ](https://www.sciencedirect.com/science/article/pii/S0896627308008921)
 
 The author delves into the burgeoning field of theoretical neuroscience, examining its origins, methodologies, and contributions to our understanding of the brain. Abbott provides a comprehensive overview of theoretical approaches used to study neural systems, including computational modeling, mathematical analysis, and theoretical frameworks borrowed from physics and engineering. Through a synthesis of experimental findings and theoretical insights, he demonstrates how theoretical neuroscience has advanced our understanding of complex neural phenomena such as perception, learning, and memory. Additionally, Abbott explores the interdisciplinary nature of theoretical neuroscience, highlighting collaborations between neuroscientists, mathematicians, computer scientists, and physicists. By elucidating the role of theory in neuroscience, Abbott argues for the integration of theoretical and experimental approaches to address fundamental questions about brain function and dysfunction. Overall, "Theoretical Neuroscience Rising" offers a compelling narrative of the evolution of theoretical neuroscience and its pivotal role in shaping our understanding of the brain.
-
-* [ Theory Construction Methodology: A practical framework for theory formation in psychology (Borsboom et al., 2020) ](https://www.researchgate.net/publication/349409485_Theory_Construction_Methodology_A_Practical_Framework_for_Building_Theories_in_Psychology)
-
-This article presents a systematic and practical approach to theory formation within the field of psychology. The authors introduce a comprehensive methodology that guides researchers through the process of constructing, refining, and evaluating theories to explain psychological phenomena. Drawing from philosophical and methodological insights, as well as empirical examples from psychology and related disciplines, the book offers clear guidelines for defining constructs, formulating hypotheses, designing empirical studies, and assessing the validity of theoretical propositions. By emphasizing the importance of rigorous theory construction, Borsboom et al. underscore the significance of theory-driven research in advancing scientific knowledge and understanding human behavior. Moreover, the authors address common challenges and misconceptions surrounding theory construction, providing researchers with practical tools and strategies to enhance the quality and coherence of their theoretical frameworks.
 
 * [ Theory development requires an epistemological sea change (Rooij & Giosuè Baggio, 2020) ](https://osf.io/preprints/psyarxiv/rnw9q)
 
@@ -136,10 +178,6 @@ The authors argue for a fundamental shift in epistemological paradigms to foster
 * [ Under what conditions does theory obstruct research progress? (Greenwald et al., 1986): ](https://faculty.washington.edu/agg/pdf/Gwald_Pratk_Leip_Baumg_PsychRev_1986.OCR.pdf)
 
 Researchers display confirmation bias when they persevere by revising procedures until obtaining a theory-predicted result. This strategy produces findings that are overgeneralized in avoidable ways, and this in turn hinders successful applications. (The 40-year history of an attitude-change phenomenon, the sleeper effect, stands as a case in point.) Confirmation bias is an expectable product of theory-centered research strategies, including both the puzzle-solving activity of T. S. Kuhn's "normal science" and, more surprisingly, K. R. Popper's recommended method of falsification seeking. The alternative strategies of condition seeking (identifying limiting conditions for a known finding) and design (discovering conditions that can produce a previously unobtained result) are result-centered; they are directed at producing specified patterns of data rather than at the logically impossible goals of establishing either the truth or falsity of a theory.
-
-* [ Creative Hypothesis Generating in Psychology: Some Useful Heuristics (McGuire, 1997) ](https://www.annualreviews.org/doi/abs/10.1146/annurev.psych.48.1.1)
-
-The author explores strategies for generating innovative hypotheses in psychological research. Drawing upon insights from cognitive psychology and creative thinking, McGuire presents a collection of heuristic techniques aimed at stimulating novel ideas and hypotheses in the realm of psychology. Through a blend of theoretical discussion and practical examples, McGuire elucidates various heuristic approaches, including analogical reasoning, counterfactual thinking, and divergent thinking. He emphasizes the importance of flexibility, openness to unconventional ideas, and willingness to challenge established assumptions in the hypothesis generation process. Furthermore, McGuire discusses how these heuristic strategies can be integrated into research practices to inspire creativity and innovation, ultimately enriching the theoretical landscape of psychology.
 
 * [ Under what conditions can theoretical psychology survive and prosper? Integrating the rational and empirical epistemologies (1988) ](https://psycnet.apa.org/record/1989-10520-001)
 
@@ -165,10 +203,6 @@ Navarro offers a critical examination of the role of mathematical psychology in 
 
 This article documents two facts that are provocative in juxtaposition. First: There is multidecade durability of theory controversies in psychology, demonstrated here in the subdisciplines of cognitive and social psychology. Second: There is a much greater frequency of Nobel science awards for contributions to method than for contributions to theory, shown here in an analysis of the last two decades of Nobel awards in physics, chemistry, and medicine. The available documentation of Nobel awards reveals two forms of method–theory synergy: (a) existing theories were often essential in enabling development of awarded methods, and (b) award-receiving methods often generated previously inconceivable data, which in turn inspired previously inconceivable theories. It is easy to find illustrations of these same synergies also in psychology. Perhaps greater recognition of the value of method in advancing theory can help to achieve resolutions of psychology’s persistent theory controversies.
 
-* [ Theory construction in the psychopathology domain: A multiphase approach ]((https://journals.sagepub.com/doi/10.1177/0959354319893026))
-
-Theory construction in the psychopathology domain is a multifaceted and complex endeavor that requires a systematic and rigorous approach. This paper proposes a multiphase methodology for theory construction in psychopathology, aiming to provide researchers with a structured framework to guide their theoretical endeavors. Drawing upon insights from various disciplines including psychology, psychiatry, and neuroscience, the proposed approach involves several key phases: (1) Conceptualization and Literature Review, (2) Hypothesis Generation, (3) Model Development, (4) Empirical Testing, and (5) Revision and Refinement. 
-
 * [ Psychology: a giant with a feet of clay (Zagaria, Ando & Zennaro, 2020) ](https://link.springer.com/article/10.1007/s12124-020-09524-5)
 
 * [ When Experiments Serve Little Purpose: Misguided Research in Mainstream Psychology (Wallach & Wallach, DATE) ](https://journals.sagepub.com/doi/10.1177/0959354398082005)
@@ -183,7 +217,6 @@ Theory construction in the psychopathology domain is a multifaceted and complex 
 
 * [On the role of theory and modeling in neuroscience (Levenstein, 2020) ](https://arxiv.org/abs/2003.13825)
 * [The Power of Theory, Research Design, and Transdisciplinary Integration in Moving Psychopathology Forward (Vaidyanathan, 2015)](https://www.tandfonline.com/doi/full/10.1080/1047840X.2015.1015367)
-* [Theoretical Virtues in Science OUP Bibliographies (Schindler, 2020) ](https://www.oxfordbibliographies.com/display/document/obo-9780195396577/obo-9780195396577-0409.xml)
 * [Gender, politics, and the theoretical virtues (Longino, 1995)](https://link.springer.com/article/10.1007/BF01064506)
 * [Theoretical virtues in eighteenth-century debates on animal cognition (Hein van den Berg, 2020)](https://link.springer.com/article/10.1007/s40656-020-00332-z)
 * [Theoretical virtues and theorizing in physics: against the instrumentalist view of simplicity (Mousa Mohammadian, 2021)](https://link.springer.com/article/10.1007/s11229-020-03004-4)
@@ -230,11 +263,6 @@ The paper challenges the prevailing notion that experiments are the primary mean
 * [Investigation and its discontents: Some constraints on progress in psychological research (Wachtel, 2007)](https://www.sciencedirect.com/science/article/abs/pii/S0962184907000182)
 
 The article examines a number of prominent trends in the conduct of psychological research and considers how they may limit progress in our field. Failure to appreciate important differences in temperament among researchers, as well as differences in the particular talents researchers bring to their work, has prevented the development in psychology of a vigorous tradition of fruitful theoretical inquiry. Misplaced emphasis on quantitative “productivity,” a problem for all disciplines, is shown to have particularly unfortunate results in psychology. Problems associated with the distorting effects of seeking grant support are shown to interact with the first two difficulties. Finally, the distorting effects of certain kinds of experimental studies are discussed, together with their implications for progress in this field.
-
-
-* [Theoretical Virtues: Do Scientists Think What Philosophers Think They Ought to Think? (Schindler, 2022)](https://www.cambridge.org/core/journals/philosophy-of-science/article/abs/theoretical-virtues-do-scientists-think-what-philosophers-think-they-ought-to-think/0C25D6844ADF529BB2912DD5DEF901CE)
-
-The paper explores the role of theoretical virtues in theory acceptance and belief within both scientific and philosophical contexts. It presents findings from a quantitative study involving scientists from natural and social sciences, comparing their perspectives on theoretical virtues with those of philosophers. Surprising results include the existence of preference orders regarding theoretical virtues among all three groups, indicating a more determinate process of theory choice than previously thought. Additionally, similarities in preference orders are observed across the groups, suggesting a commonality in their views. Notably, social scientists emphasize simplicity as an epistemic virtue, contrasting with philosophers' perspectives. Furthermore, all groups prefer syntactic parsimony over ontological parsimony.
 
 * [Overlay journals: a study of the current landscape](https://arxiv.org/abs/2204.03383)
 
@@ -293,26 +321,14 @@ The book is a practical guide to the methods used in digital humanities, offerin
 
 The paper proposes a method for determining if a theoretically predicted effect matches an observed effect, using a simple similarity measure. It discusses the application of this measure in various research designs and estimates the necessary sample size for a given observed effect using computer simulations. The main example involves applying this measure to recent meta-analytical research on precognition, indicating that the evidential basis is too weak for a predicted precognition effect. Additional examples include applying the measure to experimental data from dissonance theory, crowdsourcing hypothesis tests, and meta-analytical data on personality traits and life outcomes correlation.
 
-* [Interdisciplinarity in Cognitive Science: A Document Similarity Analysis](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13222?campaign=woletoc)
-
-The paper introduces a methodology to quantify interdisciplinary aspects of research in cognitive science. It proposes models for text similarity analysis using the Doc2Vec method to understand the relationship between publications and specific research fields. The findings suggest that cognitive science collaborates closely with disciplines like psychology, philosophy, linguistics, and computer science, but has limited engagement with anthropology and neuroscience. Overall, the study highlights the interdisciplinary nature of cognitive science over the past few decades.
-
 * [Justification: Insights from Corpora](https://www.cambridge.org/core/journals/episteme/article/justification-insights-from-corpora/40F01B343326F68FA155D9F0B1C36790)
 
 This paper utilizes corpus analytical methods on large English corpora to investigate the lemmas "justify_v" and "justified_j." The author raises a challenge to the folk justification approach, suggesting that there is not a widely used ordinary notion of justification that attaches to beliefs. The findings pose a challenge to the idea that "justify" is commonly used to talk about the justification of beliefs. The author concludes by presenting possible solutions to this challenge and discussing their feasibility. The paper highlights the potential of corpus analysis to raise philosophical questions and suggests that it can also be a tool to resolve them.
-
-* [Philosophers should prefer simpler theories](https://link.springer.com/article/10.1007/s11098-017-0994-2?wt_mc=alerts.TOCjournals&utm_source=toc&utm_medium=email&utm_campaign=toc_11098_175_12)
-
-The book argues for the epistemic superiority of simpler theories in philosophy. Bradley contends that simplicity serves as a crucial criterion for theory evaluation, promoting greater explanatory power, predictive accuracy, and overall epistemic economy. Drawing from philosophical traditions and empirical evidence, the author examines various formulations of simplicity and their implications for theory choice in philosophy. Through a critical analysis of competing theories and conceptual frameworks, Bradley demonstrates how simplicity enhances theoretical coherence, conciseness, and explanatory scope. Moreover, the paper explores the implications of preferring simpler theories for philosophical methodology, foundational debates, and the pursuit of truth. By advocating for the epistemic virtues of simplicity, Bradley's work contributes to a deeper understanding of theory evaluation in philosophy and offers insights into the principles guiding rational inquiry and knowledge acquisition.
 
 * [(Mis)Understanding scientific disagreement: Success versus pursuit-worthiness in theory choice
 ](https://www.sciencedirect.com/science/article/abs/pii/S0039368120301898?via%3Dihub)
 
 Scientists often diverge widely when choosing between research programs. This can seem to be rooted in disagreements about which of several theories, competing to address shared questions or phenomena, is currently the most epistemically or explanatorily valuable—i.e. most successful. But many such cases are actually more directly rooted in differing judgments of pursuit-worthiness, concerning which theory will be best down the line, or which addresses the most significant data or questions. Using case studies from 16th-century astronomy and 20th-century geology and biology, I argue that divergent theory choice is thus often driven by considerations of scientific process, even where direct epistemic or explanatory evaluation of its final products appears more relevant. Broadly following Kuhn's analysis of theoretical virtues, I suggest that widely shared criteria for pursuit-worthiness function as imprecise, mutually-conflicting values. However, even Kuhn and others sensitive to pragmatic dimensions of theory ‘acceptance’, including the virtue of fruitfulness, still commonly understate the role of pursuit-worthiness—especially by exaggerating the impact of more present-oriented virtues, or failing to stress how ‘competing’ theories excel at addressing different questions or data. This framework clarifies the nature of the choice and competition involved in theory choice, and the role of alternative theoretical virtues.
-
-* [Interdisciplinarity can aid the spread of better methods between scientific communities](https://journals.sagepub.com/doi/10.1177/26339137221131816?utm_source=selligent&utm_medium=email&utm_campaign=&utm_content=&utm_term=&m_i=7YUWC7E99LseZQvw6siti1aj0%2BaR_sKURKn0FJjfTpVXEsmaSl3S9ok6vFlJfcgya1bqZTfkNnsCFsbu9Y1HK86GJ4X1Am&M_BT=32925675224431)
-
-Why do bad methods persist in some academic disciplines, even when they have been widely rejected in others? What factors allow good methodological advances to spread across disciplines? In this paper, the authors investigate some key features determining the success and failure of methodological spread between the sciences. The authors introduce a formal model that considers factors like methodological competence and reviewer bias toward one’s own methods. The authors show how these self-preferential biases can protect poor methodology within scientific communities, and lack of reviewer competence can contribute to failures to adopt better methods.
 
 * [From Concepts to Texts and Back: Operationalization as a Core Activity of Digital Humanities](https://culturalanalytics.org/article/57195-from-concepts-to-texts-and-back-operationalization-as-a-core-activity-of-digital-humanities)
 
@@ -431,15 +447,8 @@ The paper provides an overview of how models are utilized to understand scientif
 
 The paper explores the phenomenon of overpromising in scientific discourse, where unrealistic expectations are raised to gain trust and funding. Drawing on signaling theory, philosophy of promising, and science communication research, the paper presents a conceptualization of overpromising and emphasizes the importance of considering the knowledge context in promise-making. The study suggests that further research is needed to explore broader dimensions and motivations for overpromising, including the promiser's identity, normative dimensions of the promise, and specific contexts. Additionally, understanding why overpromising persists in certain contexts, despite awareness from both promiser and promisee, is highlighted as an area for investigation.
 
-* [CausalCite: A Causal Formulation of Paper Citations](https://arxiv.org/abs/2311.02790v2)
-
-The paper proposes a novel method called TextMatch for evaluating the significance of scientific papers, addressing the limitations of traditional citation counts. TextMatch utilizes high-dimensional text embeddings generated by large language models (LLMs) to encode papers, extracts similar samples using cosine similarity, and synthesizes a counterfactual sample based on the weighted average of similar papers. The resulting metric, called CausalCite, offers a causal formulation of paper citations. The effectiveness of CausalCite is demonstrated through its high correlation with paper impact, as assessed by scientific experts, and its stability across various sub-fields of AI. The study provides insights for future researchers to leverage this metric for a more comprehensive understanding of a paper's quality. Code and data are available for further exploration.
-
 * [Mapping the field of psychology: Trends in research topics 1995 - 1915](https://link.springer.com/article/10.1007/s11192-021-04069-9)
 * [What makes a good theory, and how do we make a theory good?](https://osf.io/preprints/psyarxiv/8fxds)
-* []()
 
 
-{% endcapture %}
-{{ my_markdown | markdownify }}
 </details>
