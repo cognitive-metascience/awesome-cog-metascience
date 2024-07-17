@@ -5,9 +5,16 @@ theme: minima
 markdown: kramdown
 kramdown:
   input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  syntax_highlighter: rouge
   syntax_highlighter_opts:
-    block: true
-  parse_block_html: true
+    block:
+      line_numbers: false
 
 header_pages:
   - README.md
