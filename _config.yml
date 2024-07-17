@@ -2,7 +2,12 @@ title: Awesome Cognitive Metascience List
 description: An Overview of Essential Resources for the Study of Cognitive Metascience
 theme: minima
 
-markdown: CommonMarkGhPages
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    block: true
+  parse_block_html: true
 
 header_pages:
   - README.md

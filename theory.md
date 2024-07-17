@@ -1,7 +1,7 @@
 ﻿In our Scientific Theories section, you'll find must-have resources for getting to grips with the essence of scientific exploration. You'll find classic reads to enlightening articles, and they all offer insights into theory building and disciplinary perspectives.
 
-<details>
-<summary>Check it out!</summary>
+<details markdown="1">
+<summary markdown="1">Check it out!</summary>
 
 * [ There Are No Such Things As Theories (Stephen French, 2020) ](https://global.oup.com/academic/product/there-are-no-such-things-as-theories-9780198848158?prevNumResPerPage=20&prevSortField=8&resultsPerPage=20&sortField=8&start=20&lang=en&cc=pl#)
 
