@@ -442,5 +442,4 @@ The paper proposes a novel method called TextMatch for evaluating the significan
 
 {% endcapture %}
 {{ my_markdown | markdownify }}
-{% endraw %}
 </details>
