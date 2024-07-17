@@ -23,6 +23,10 @@ Craver presents a comprehensive analysis of the conceptual frameworks that under
 
 This paper advocates for a model-theoretic approach to comprehending the nature of scientific theories, drawing connections between philosophers' model-theoretic accounts and cognitive scientists' categorization concepts. The author proposes a more intricate structure for families of models, contrasting common assumptions. Using classical mechanics as an illustration, the paper suggests mapping families of models with "horizontal" graded structures, multiple hierarchical "vertical" structures, and local "radial" structures. These proposed structures have significant implications for the learning and application of scientific theories in real scientific practice.
 
+* [Theorizing theory: Invitation to a broader conversation about ‘theory’ in sociology](https://compass.onlinelibrary.wiley.com/doi/10.1111/soc4.13085)
+
+The paper explores the ambiguity surrounding the term "theory" in sociology and proposes a minimal and versatile theory of theory. It aims to foster discussion and reflexivity within the field by inviting sociologists of diverse perspectives to engage in dialogue. Using fictional personas of "Gunns" and "Marits," representing different theoretical preferences, the paper encourages collaboration and mutual understanding among sociologists. By establishing a common understanding of theories as sets of assumptions about phenomena, it seeks to advance the field collectively.
+
 
 </details>
 
@@ -74,6 +78,18 @@ McMullin explores the qualities that characterize an exemplary scientific theory
 * [Philosophers should prefer simpler theories (Bradley)](https://link.springer.com/article/10.1007/s11098-017-0994-2?wt_mc=alerts.TOCjournals&utm_source=toc&utm_medium=email&utm_campaign=toc_11098_175_12)
 
 The book argues for the epistemic superiority of simpler theories in philosophy. Bradley contends that simplicity serves as a crucial criterion for theory evaluation, promoting greater explanatory power, predictive accuracy, and overall epistemic economy. Drawing from philosophical traditions and empirical evidence, the author examines various formulations of simplicity and their implications for theory choice in philosophy. Through a critical analysis of competing theories and conceptual frameworks, Bradley demonstrates how simplicity enhances theoretical coherence, conciseness, and explanatory scope. Moreover, the paper explores the implications of preferring simpler theories for philosophical methodology, foundational debates, and the pursuit of truth. By advocating for the epistemic virtues of simplicity, Bradley's work contributes to a deeper understanding of theory evaluation in philosophy and offers insights into the principles guiding rational inquiry and knowledge acquisition.
+
+* [A meta-analytic approach to evaluating the explanatory adequacy of theories](https://open.lnu.se/index.php/metapsychology/article/view/2741)
+
+How can the explanatory adequacy of theories be verified using data? Large-scale replications have lately entered the scene, but the two most common and conventional methodologies still rely on single studies and non-systematic narrative reviews to assess the explanatory power of theories. According to the authors, none of these methods adheres to the principles of cumulative science. The authors propose instead Community-Augmented Meta-Analyses (CAMAs), which, like meta-analyses and systematic reviews, are built using all available data; like meta-analyses but not systematic reviews, can rely on sound statistical practices to model methodological effects; and like no other approach, are broad-scoped, cumulative and open.
+
+* [What makes a good theory, and how do we make a theory good?](https://osf.io/preprints/psyarxiv/8fxds)
+
+* [Gender, politics, and the theoretical virtues (Longino, 1995)](https://link.springer.com/article/10.1007/BF01064506)
+
+* [Theoretical virtues in eighteenth-century debates on animal cognition (Hein van den Berg, 2020)](https://link.springer.com/article/10.1007/s40656-020-00332-z)
+
+* [Theoretical virtues and theorizing in physics: against the instrumentalist view of simplicity (Mousa Mohammadian, 2021)](https://link.springer.com/article/10.1007/s11229-020-03004-4)
 
 </details>
 
@@ -217,9 +233,7 @@ This article documents two facts that are provocative in juxtaposition. First: T
 
 * [On the role of theory and modeling in neuroscience (Levenstein, 2020) ](https://arxiv.org/abs/2003.13825)
 * [The Power of Theory, Research Design, and Transdisciplinary Integration in Moving Psychopathology Forward (Vaidyanathan, 2015)](https://www.tandfonline.com/doi/full/10.1080/1047840X.2015.1015367)
-* [Gender, politics, and the theoretical virtues (Longino, 1995)](https://link.springer.com/article/10.1007/BF01064506)
-* [Theoretical virtues in eighteenth-century debates on animal cognition (Hein van den Berg, 2020)](https://link.springer.com/article/10.1007/s40656-020-00332-z)
-* [Theoretical virtues and theorizing in physics: against the instrumentalist view of simplicity (Mousa Mohammadian, 2021)](https://link.springer.com/article/10.1007/s11229-020-03004-4)
+
 * [From Corpora to Philosophy of Science (?, 2020)](https://figshare.com/articles/presentation/Sciveyor_From_Corpora_to_Philosophy_of_Science/13060559)
 
 The paper investigates how corpus linguistics methodologies can inform and enrich philosophical inquiries within the realm of science. Through a multidisciplinary approach, the paper delves into the application of corpus linguistic techniques to analyze scientific texts, including research articles, textbooks, and academic discourse. The author demonstrates how corpus linguistics can offer valuable insights into the language and communication practices of scientists, shedding light on the development, dissemination, and evolution of scientific knowledge. Moreover, the paper explores how corpus linguistic analyses can contribute to philosophical debates surrounding scientific realism, theory construction, and the nature of scientific explanation.
@@ -415,10 +429,6 @@ The paper discusses the rise of the "reproducibility crisis" in science policy a
 
 In philosophy of science, the centrality of epistemic terms like theory, explanation, model, or mechanism is rarely questioned. What practical value do they serve in science, though? The authors use text-mining techniques to examine how 61 epistemic concepts are used in a corpus of full-text articles from the biological and biomedical sciences (N=73,771) as part of this philosophy of science project. By dividing the corpus into sub-disciplinary clusters, the impact of the disciplinary setting is also investigated. The findings show how these notions actually create complex semantic networks in scientific speech, which, at least in some scientific domains, deviates from our intuitions.
 
-* [A meta-analytic approach to evaluating the explanatory adequacy of theories](https://open.lnu.se/index.php/metapsychology/article/view/2741)
-
-How can the explanatory adequacy of theories be verified using data? Large-scale replications have lately entered the scene, but the two most common and conventional methodologies still rely on single studies and non-systematic narrative reviews to assess the explanatory power of theories. According to the authors, none of these methods adheres to the principles of cumulative science. The authors propose instead Community-Augmented Meta-Analyses (CAMAs), which, like meta-analyses and systematic reviews, are built using all available data; like meta-analyses but not systematic reviews, can rely on sound statistical practices to model methodological effects; and like no other approach, are broad-scoped, cumulative and open.
-
 * [Two Kinds of Theory in the Social Sciences](https://www.cambridge.org/core/journals/psa-proceedings-of-the-biennial-meeting-of-the-philosophy-of-science-association/article/abs/two-kinds-of-theory-in-the-social-sciences/83A104A1839FF6D2F216B912DBA4E461#)
 
 The paper discusses the definition of social science and explores the distinction between two types of theories within the field. It examines how social science can be understood both narrowly, focusing on the structure of societies or cultures, and broadly, encompassing the study of complex human behavior influenced by interpersonal interactions. Additionally, it provides an example of a deductive-nomothetic theory in social science, specifically the theory of the evolution of the Indo-European languages.
@@ -426,10 +436,6 @@ The paper discusses the definition of social science and explores the distinctio
 * [Psychological Theory and the Illusion of Scientific Prediction](https://link.springer.com/article/10.1007/s11013-021-09757-y)
 
 The paper critiques empiricist psychology's reliance on quantification as a means to achieve scientific credibility. It argues that this approach neglects subjective phenomena inherent in the study of the mind and contradicts fundamental scientific principles. Specifically, it suggests that psychological theories often lack the capacity for nuanced quantitative prediction beyond simplistic binary outcomes, hindering the ability to discern between competing theories and infer underlying mental mechanisms from experimental data.
-
-* [Theorizing theory: Invitation to a broader conversation about ‘theory’ in sociology](https://compass.onlinelibrary.wiley.com/doi/10.1111/soc4.13085)
-
-The paper explores the ambiguity surrounding the term "theory" in sociology and proposes a minimal and versatile theory of theory. It aims to foster discussion and reflexivity within the field by inviting sociologists of diverse perspectives to engage in dialogue. Using fictional personas of "Gunns" and "Marits," representing different theoretical preferences, the paper encourages collaboration and mutual understanding among sociologists. By establishing a common understanding of theories as sets of assumptions about phenomena, it seeks to advance the field collectively.
 
 * [Progressive and degenerative journals: on the growth and appraisal of knowledge in scholarly publishing](https://link.springer.com/article/10.1007/s13194-022-00492-8)
 
@@ -448,7 +454,6 @@ The paper provides an overview of how models are utilized to understand scientif
 The paper explores the phenomenon of overpromising in scientific discourse, where unrealistic expectations are raised to gain trust and funding. Drawing on signaling theory, philosophy of promising, and science communication research, the paper presents a conceptualization of overpromising and emphasizes the importance of considering the knowledge context in promise-making. The study suggests that further research is needed to explore broader dimensions and motivations for overpromising, including the promiser's identity, normative dimensions of the promise, and specific contexts. Additionally, understanding why overpromising persists in certain contexts, despite awareness from both promiser and promisee, is highlighted as an area for investigation.
 
 * [Mapping the field of psychology: Trends in research topics 1995 - 1915](https://link.springer.com/article/10.1007/s11192-021-04069-9)
-* [What makes a good theory, and how do we make a theory good?](https://osf.io/preprints/psyarxiv/8fxds)
 
 
 </details>
