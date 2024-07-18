@@ -1,4 +1,4 @@
-![image](https://github.com/sofijakrivokapic/cognitivemetascience/assets/125128460/6944892e-be85-48b4-bb7a-a82d6dca01df)
+![image](cog_metasci.png)
 
 # An Overview of Essential Resources for the Study of Cognitive Metascience
 
