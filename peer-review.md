@@ -39,6 +39,14 @@ Blinded review aims to reduce bias and increase diversity in scientific research
 * [Ending Human-Dependent Peer Review - The Scholarly Kitchen](https://scholarlykitchen.sspnet.org/2023/09/29/ending-human-dependent-peer-review/)
 * [Researchers Use GPT-4 to Generate Feedback on Scientific Manuscripts](https://stanford.io/3uhjubp)
 * [Code Review Automation: Strengths and Weaknesses of the State of the Art](https://arxiv.org/abs/2401.05136v1)
+* [Can large language models provide useful feedback on research papers? A large-scale empirical analysis](https://arxiv.org/abs/2310.01783)
+
+  GPT-4 can generate scientific feedback on research papers with quality comparable to human peer reviewers:
+  * GPT-4's feedback overlaps with human reviewers at similar rates as human-to-human reviewer overlap.
+  * Over half of researchers (57.4%) found GPT-4 feedback helpful/very helpful.
+  * 82.4% of researchers considered GPT-4 feedback more beneficial than some human reviewers.
+  * GPT-4 shows potential in addressing challenges in obtaining timely, high-quality peer reviews, especially for junior researchers or those from under-resourced settings
+
 
 ### Opening Peer Review
 * [Peer Community In - Free Peer Review & Validation of Preprints of Articles](https://peercommunityin.org/)
@@ -46,7 +54,7 @@ Blinded review aims to reduce bias and increase diversity in scientific research
 
 ### Peer Review of Code
 * [Seamless Sharing and Peer Review of Code | Nature Computational Science](https://www.nature.com/articles/s43588-022-00388-w)
-* [�Reproducible� Research in Mathematical Sciences Requires Changes in Our Peer Review Culture and Modernization of Our Current Publication Approach - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6240027/)
+* [Reproducible Research in Mathematical Sciences Requires Changes in Our Peer Review Culture and Modernization of Our Current Publication Approach - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6240027/)
 * [Trust but Verify: How to Leverage Policies, Workflows, and Infrastructure to Ensure Computational Reproducibility in Publication � Issue 2.4, Fall 2020](https://hdsr.mitpress.mit.edu/pub/f0obb31j/release/3)
  
 </details>
@@ -55,6 +63,10 @@ Blinded review aims to reduce bias and increase diversity in scientific research
 <summary>Datasets</summary>
 
 * [Peer Review Innovations (Survey Results)](https://figshare.com/articles/dataset/PeerReviewInventoryDatasetxlsx/17161835) Very useful summary of various innovations in the peer review process.
+* eLife Open Peer Review Corpus, <https://doi.org/10.18150/FKPEQN>
+* PLoS Open Peer Review Corpus, <https://doi.org/10.18150/KZHVGE>
+* MDPI Open Peer Review Corpus, <https://doi.org/10.18150/D5L2EK>
+* MDPI Open Peer Review Corpus 2 (much bigger), <https://doi.org/10.18150/SHKP7B>
 
 </details>
 
