@@ -23,15 +23,16 @@ Here you will find papers and resources related to the study of peer review.
 * [Review Mill at MDPI](https://predatoryreports.org/news/f/review-mill-at-mdpi)
 * [Unpacking P-Hacking and Publication Bias - American Economic Association](https://www.aeaweb.org/articles?id=10.1257/aer.20210795)
 
-### Unintended Consequences of Peer Review
+### Biases and Unintended Consequences of Peer Review
 * [Is Blinded Review Enough?](https://www.nber.org/papers/w25759?utmcampaign=ntwh&utmmedium=email&utm_source=ntwg16)
 Blinded review aims to reduce bias and increase diversity in scientific research. However, a study of Gates Foundation grant proposals found that female applicants received lower scores despite blinded review. This disparity is linked to gender differences in communication styles, not reviewer bias or proposal quality. Female applicants showed greater scientific output after an accepted proposal, highlighting the need to address gender disparities in evaluation.
 * [Conservatism Gets Funded? A Field Experiment on the Role of Negative Information in Novel Project Evaluation](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.4107)
+* [Western scientists more likely to get rejected papers published — and do it faster](https://www.nature.com/articles/d41586-024-02142-w) – a Nature piece on the preprint [Geographical Disparities in Navigating Rejection in Science Drive Disparities in its File Drawer](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872023)
+* [Research funding: past performance is a stronger predictor of future scientific output than reviewer scores](https://www.sciencedirect.com/science/article/pii/S1751157719303694)
 
 ### Peer Review Costs
 * [Time to Rethink Academic Publishing: The Peer Reviewer Crisis | mBio](https://journals.asm.org/doi/10.1128/mbio.01091-23)
 
- 
 ### Innovations
 * [Using Natural Language Processing to Support Peer-Feedback in the Age of Artificial Intelligence: A Cross-Disciplinary Framework and a Research Agenda](https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/deliver/index/docId/104873/file/104873.pdf)
 * [Machine Learning in Scientific Grant Review: Algorithmically Predicting Project Efficiency in High Energy Physics](https://link.springer.com/article/10.1007/s13194-022-00478-6)
