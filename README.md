@@ -7,6 +7,18 @@ This platform is open to everyone, and we believe that collective knowledge-shar
 
 In the following sections, you will find a list of resources for Natural Language Processing (NLP) and citation analysis, as well as a literature overview regarding scientific theories and peer review processes.
 
+## Introductory materials
+
+<details>
+<summary>Tools</summary>
+
+### Digital Humanities
+
+* [The AI for Humanists Project](https://aiforhumanists.com/)
+
+Focus on BERT and LLMs for Digital Humanities.
+</details>
+
 ## Tools for NLP
 
 From robust language models like SciBERT to annotation platforms like Doccano, these resources offer a diverse array of tools designed for text analysis and understanding. Whether you're exploring sentiment analysis, entity recognition, or document summarization, these tools provide the necessary infrastructure for work in the field of natural language processing, making them useful for anyone interested in advancing their understanding of linguistics, machine learning, or cognitive science.
