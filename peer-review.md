@@ -7,7 +7,7 @@ Here you will find papers and resources related to the study of peer review.
 
 ### Is gatekeeping necessary?
 * [Anything Goes? Why Uphold Peer Review at All | by Ann-Sophie Barwich | Mar, 2024 | Medium](https://as-barwich.medium.com/anything-goes-eb90552dc677)
-* [Heesen, R., & Bright, L. K. (2021). Is Peer Review a Good Idea? The British Journal for the Philosophy of Science, 72(3), 635�663.] (https://doi.org/10.1093/bjps/axz029) The answer is no (Goodwin's law of headlines).
+* [Heesen, R., & Bright, L. K. (2021). Is Peer Review a Good Idea? The British Journal for the Philosophy of Science, 72(3), 635-663.] (https://doi.org/10.1093/bjps/axz029) The answer is no (Goodwin's law of headlines).
 * [Desmond, H. (2024). Gatekeeping should be conserved in the open science era. Synthese, 203(5), 160](https://doi.org/10.1007/s11229-024-04559-2)
 
 ### Studying Peer Review
