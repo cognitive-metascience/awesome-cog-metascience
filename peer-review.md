@@ -25,6 +25,8 @@ Here you will find papers and resources related to the study of peer review.
 * [Reviewer-Coerced Citation: Case Report, Update on Journal Policy and Suggestions for Future Prevention](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6748764/)
 * [Review Mill at MDPI](https://predatoryreports.org/news/f/review-mill-at-mdpi)
 * [Unpacking P-Hacking and Publication Bias - American Economic Association](https://www.aeaweb.org/articles?id=10.1257/aer.20210795)
+* [The AI Review Lottery: Widespread AI-Assisted Peer Reviews Boost Paper Scores and Acceptance Rates](https://arxiv.org/abs/2405.02150)
+A study on the use of AI-assisted peer reviews in the 2024 International Conference on Learning Representations (ICLR) found that at least 15.8% of reviews were written with AI assistance, and that AI-assisted reviews were more likely to score higher than human reviews and increase the chances of submission acceptance.
 
 ### Biases and Unintended Consequences of Peer Review
 
