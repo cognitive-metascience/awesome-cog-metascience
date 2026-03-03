@@ -1,4 +1,4 @@
-![image](cog_metasci.png)
+![image](logo.png)
 
 # An Overview of Essential Resources for the Study of Cognitive Metascience
 
